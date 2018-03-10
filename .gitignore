@@ -98,3 +98,6 @@ ENV/
 #pycache
 *.pyc
 
+#Pycharm
+.idea
+
