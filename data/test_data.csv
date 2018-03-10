@@ -1,0 +1,810 @@
+inputs,outputs
+remind me to take my pills,what time do you need to take your pills?
+remind me to take my pills what time do you need to take your pills? i need to take my pills at 7 pm.,ok setting your medicine appointment for 7pm
+what gas stations are here?,there is a chevron.
+what gas stations are here? there is a chevron. that's good! please pick the quickest route to get there and avoid all heavy traffic!,taking you to chevron.
+what gas stations are here? there is a chevron. that's good! please pick the quickest route to get there and avoid all heavy traffic! taking you to chevron. what is the address?,Chevron_address is the address for chevron gas station
+what gas stations are here? there is a chevron. that's good! please pick the quickest route to get there and avoid all heavy traffic! taking you to chevron. what is the address? Chevron_address is the address for chevron gas station perfect. thank you,"you're welcome, happy to help."
+what's the temperature going to be like on alhambra_friday,what city should i find alhambra_friday's temperature for?
+what's the temperature going to be like on alhambra_friday what city should i find alhambra_friday's temperature for? alhambra,on alhambra_friday there will be clear skies in alhambra
+what's the temperature going to be like on alhambra_friday what city should i find alhambra_friday's temperature for? alhambra on alhambra_friday there will be clear skies in alhambra and the temperature?,it will be between 20-30f in alhambra on alhambra_friday.
+what's the temperature going to be like on alhambra_friday what city should i find alhambra_friday's temperature for? alhambra on alhambra_friday there will be clear skies in alhambra and the temperature? it will be between 20-30f in alhambra on alhambra_friday. thank you.,you're welcome.
+give me directions to the closest grocery store,there are whole foods 2 miles away and sigona farmers market Sigona_Farmers_Market_distance away. where do we go?
+give me directions to the closest grocery store there are whole foods 2 miles away and sigona farmers market Sigona_Farmers_Market_distance away. where do we go? i need the one that avoids all heavy traffic.,sigona farmers market is located Sigona_Farmers_Market_distance away with no traffic. it's located at 638 amherst st.
+give me directions to the closest grocery store there are whole foods 2 miles away and sigona farmers market Sigona_Farmers_Market_distance away. where do we go? i need the one that avoids all heavy traffic. sigona farmers market is located Sigona_Farmers_Market_distance away with no traffic. it's located at 638 amherst st.  thank you.,"great, glad i could help. have a great day. we will be there soon."
+what will the weather in fresno be in the next 48 hours?,the weather in fresno over the next 48 hours will be cloudy with snow.
+what will the weather in fresno be in the next 48 hours? the weather in fresno over the next 48 hours will be cloudy with snow. thanks,you are welcome
+where is home,"home is where is your heart is, at home_address"
+"where is home  home is where is your heart is, at home_address okay, how far away am i and send me the quickest route",you are home_distance away from home with heavy traffic noted.
+"where is home  home is where is your heart is, at home_address okay, how far away am i and send me the quickest route you are home_distance away from home with heavy traffic noted.  thank you very much car!",you are welcome driver!
+"where is home  home is where is your heart is, at home_address okay, how far away am i and send me the quickest route you are home_distance away from home with heavy traffic noted.  thank you very much car! you are welcome driver! no response needed",glad to help
+where is the closest grocery store,we are Safeway_distance away from whole foods and from safeway: which one do you prefer?
+where is the closest grocery store we are Safeway_distance away from whole foods and from safeway: which one do you prefer? safeway.,safeway is located at Safeway_address.
+where is the closest grocery store we are Safeway_distance away from whole foods and from safeway: which one do you prefer? safeway. safeway is located at Safeway_address. pick the quickest route to go there and send the info on my screen please,"you're all set, drive carefully!"
+give me directions to the closest grocery store,we're Willows_Market_distance away from willows market but there is a car collision nearby
+give me directions to the closest grocery store we're Willows_Market_distance away from willows market but there is a car collision nearby what is the next closest location?,i'm sorry but there are no other options nearby
+"give me directions to the closest grocery store we're Willows_Market_distance away from willows market but there is a car collision nearby what is the next closest location? i'm sorry but there are no other options nearby ok, well make a route to the willows market then, try to avoid the car accident.","ok driver, making a route to willows market and avoiding the car accident."
+"give me directions to the closest grocery store we're Willows_Market_distance away from willows market but there is a car collision nearby what is the next closest location? i'm sorry but there are no other options nearby ok, well make a route to the willows market then, try to avoid the car accident.  ok driver, making a route to willows market and avoiding the car accident.  that's great! thank you car!",you are welcome driver!
+where does my friend live?,jill's house is located 5 miles away at 347 alta mesa avenue.
+where does my friend live? jill's house is located 5 miles away at 347 alta mesa avenue.,sorry i didn't get that.
+"where does my friend live? jill's house is located 5 miles away at 347 alta mesa avenue.   sorry i didn't get that. i was thinking about something that happened to jill yesterday, long story.. please pick a quick route to get there, thank you!",the quickest route is 347 alta mesa ave. at 5 miles. we will be there shortly.
+"where does my friend live? jill's house is located 5 miles away at 347 alta mesa avenue.   sorry i didn't get that. i was thinking about something that happened to jill yesterday, long story.. please pick a quick route to get there, thank you! the quickest route is 347 alta mesa ave. at 5 miles. we will be there shortly.  thank you!",you're welcome!
+what is the highest temperature in brentwood over the next two days?,it will be 80f on brentwood_tuesday in brentwood.
+what is the highest temperature in brentwood over the next two days? it will be 80f on brentwood_tuesday in brentwood. thank you very much car!,you're very welcome!
+set reminder for dinner at 11am with mom on friday,"okay, scheduling friday dinner with mom at 11 am."
+"set reminder for dinner at 11am with mom on friday okay, scheduling friday dinner with mom at 11 am. thank you, we are done for now.",you are welcome.
+what time is dinner tonight,your dinner is 5pm tonight.
+what are the directions to the closest parking garage,"the closest parking garage is civic center garage, located Civic_Center_Garage_distance away at 270 altaire walk."
+"what are the directions to the closest parking garage the closest parking garage is civic center garage, located Civic_Center_Garage_distance away at 270 altaire walk. thank you",you're welcome.
+give me directions to the nearest shopping center,"i've set the gps to stanford shopping center, 773 alger dr, it's Stanford_Shopping_Center_distance away"
+"give me directions to the nearest shopping center i've set the gps to stanford shopping center, 773 alger dr, it's Stanford_Shopping_Center_distance away thanks",you're welcome
+find the address to a hospital or clinic.,stanford express care is at Stanford_Express_Care_address.
+find the address to a hospital or clinic. stanford express care is at Stanford_Express_Care_address. thank you.,good day
+is it going to snow this week,where should i check for snow?
+is it going to snow this week where should i check for snow? corona,there will be no snow in corona this week.
+is it going to snow this week where should i check for snow? corona there will be no snow in corona this week. thank you car!,no problem my driver!
+i need a reminder for dinner.,what time shall i set a dinner reminder?
+"i need a reminder for dinner.  what time shall i set a dinner reminder? set my reminder for dinner at 7 pm, for the 6th of this month with my beloved marie.","i will set a reminder for dinner at 7 pm, for the 6th of this month with marie."
+"i need a reminder for dinner.  what time shall i set a dinner reminder? set my reminder for dinner at 7 pm, for the 6th of this month with my beloved marie.  i will set a reminder for dinner at 7 pm, for the 6th of this month with marie. thanks",you are welcome
+will it be warm in compton on compton_wednesday?,it will not be warm in compton on compton_wednesday.
+will it be warm in compton on compton_wednesday? it will not be warm in compton on compton_wednesday. thank you.,anytime.
+"set me a reminder for football activity at 1pm, this month on the 11th, with marie.",reminder for football on the 11th of this month at 1pm with marie is set.
+"set me a reminder for football activity at 1pm, this month on the 11th, with marie.  reminder for football on the 11th of this month at 1pm with marie is set.  thanks buddy.",anytime.
+set an appointment for swimming,what time would like me to set the appointment?
+set an appointment for swimming what time would like me to set the appointment? at 3pm on saturday please,okay i set your appointment for 3pm on saturday. have a good time!
+i need gas.,valero is Valero_distance away.
+i need gas. valero is Valero_distance away. what is the address?,valero is at Valero_addressnue.
+i need gas. valero is Valero_distance away. what is the address? valero is at Valero_addressnue.  can i have some route details? i would like to avoid any Valero_traffic_info there,"i sent the best possible route on screen but there will be Valero_traffic_info anyway, i'm sorry"
+"i need gas. valero is Valero_distance away. what is the address? valero is at Valero_addressnue.  can i have some route details? i would like to avoid any Valero_traffic_info there i sent the best possible route on screen but there will be Valero_traffic_info anyway, i'm sorry it's okay, thank you car!",you're welcome!
+take me to my friend's house,"your friends house is on 5677 southwest 4th street, there is moderate traffic on our way but we're just 1 miles away"
+"take me to my friend's house your friends house is on 5677 southwest 4th street, there is moderate traffic on our way but we're just 1 miles away what about the address of my home.","it must have been a hard day for you if you don't remember the address of your home.. home_address, i was kidding, don't crash me, please"
+"take me to my friend's house your friends house is on 5677 southwest 4th street, there is moderate traffic on our way but we're just 1 miles away what about the address of my home. it must have been a hard day for you if you don't remember the address of your home.. home_address, i was kidding, don't crash me, please thanks for the help.",you're welcome!
+where can i go shopping?,we're Midtown_Shopping_Center_distance away from midtown shopping center and there is no traffic on our way
+where can i go shopping? we're Midtown_Shopping_Center_distance away from midtown shopping center and there is no traffic on our way sounds amazing. set the gps to go there.,"you got it, gps set."
+"where can i go shopping? we're Midtown_Shopping_Center_distance away from midtown shopping center and there is no traffic on our way sounds amazing. set the gps to go there.  you got it, gps set. thanks!",no problem!
+does the forecast call for snow today,tell me what city you would like to know about snow today?
+does the forecast call for snow today tell me what city you would like to know about snow today? cleveland.,it will not snow in cleveland today.
+does the forecast call for snow today tell me what city you would like to know about snow today? cleveland.  it will not snow in cleveland today. thanks.,you are welcome.
+get me directions to a local cafe,we're Starbucks_distance away from starbucks: would you like to go there?
+get me directions to a local cafe we're Starbucks_distance away from starbucks: would you like to go there? yes.,navigating you to starbucks.
+get me directions to a local cafe we're Starbucks_distance away from starbucks: would you like to go there? yes. navigating you to starbucks. thanks can you provide the address and is this the fastest route?,"the address is Starbucks_address, i sent the info on your screen, drive carefully!"
+schedule conference with sales team on the 11th of this month 9am,"okay, scheduling a conference with the sales team at 9am on the 11th of this month."
+"schedule conference with sales team on the 11th of this month 9am  okay, scheduling a conference with the sales team at 9am on the 11th of this month. thanks.",you are welcome.
+what time is my doctor apartment and who is it with?,are you talking about the doctor appointment on doctor_appointment_date or the one on the 5th?
+what time is my doctor apartment and who is it with? are you talking about the doctor appointment on doctor_appointment_date or the one on the 5th? the one on doctor_appointment_date.,your doctor appointment on doctor_appointment_date is at 7pm with your father.
+what time is my doctor apartment and who is it with? are you talking about the doctor appointment on doctor_appointment_date or the one on the 5th? the one on doctor_appointment_date. your doctor appointment on doctor_appointment_date is at 7pm with your father. and how about the one on doctor_appointment_date?,your doctors appointment on doctor_appointment_date is at 6pm with alex.
+what's the weather forecast for today and tomorrow,in what city are you interested?
+what's the weather forecast for today and tomorrow in what city are you interested? los angeles,"in los angeles, it will rain today and be 40-60f.  tomorrow, it will be warm and 60-80f."
+"what's the weather forecast for today and tomorrow in what city are you interested? los angeles in los angeles, it will rain today and be 40-60f.  tomorrow, it will be warm and 60-80f. thanks.",no problem.
+give me directions to the nearest shopping mall,there is the midtown shopping center Midtown_Shopping_Center_distance away and no traffic on the route: set this destination on your gps?
+give me directions to the nearest shopping mall there is the midtown shopping center Midtown_Shopping_Center_distance away and no traffic on the route: set this destination on your gps? yes please that sounds perfect.,setting gps to midtown shopping center. anything else?
+"give me directions to the nearest shopping mall there is the midtown shopping center Midtown_Shopping_Center_distance away and no traffic on the route: set this destination on your gps? yes please that sounds perfect.  setting gps to midtown shopping center. anything else? that will be all, thanks.",no problem!
+find me the quickest route to the grocery store.,hacienda market is the closest grocery store 1 mile away
+"find me the quickest route to the grocery store.  hacienda market is the closest grocery store 1 mile away ok, please give me the address and directions via the quickest route.","setting navigation to 1313 chester ave now. there is a Hacienda_Market_traffic_info, so drive carefully."
+"find me the quickest route to the grocery store.  hacienda market is the closest grocery store 1 mile away ok, please give me the address and directions via the quickest route.  setting navigation to 1313 chester ave now. there is a Hacienda_Market_traffic_info, so drive carefully.  thank you.",no problem
+give me the forecast for the next 7 days,for what city?
+give me the forecast for the next 7 days for what city? downtown chicago,"in downtown chicago it will be humid on monday, snow on tueday, dry on wednesday, frost on thursday, drizzle on friday, clear skies on saturday and downtown_chicago_sunday"
+"give me the forecast for the next 7 days for what city? downtown chicago in downtown chicago it will be humid on monday, snow on tueday, dry on wednesday, frost on thursday, drizzle on friday, clear skies on saturday and downtown_chicago_sunday okay, thank you car!",you are welcome!
+"car, find the date and time for my tennis activity.",your tennis activity is on tennis_activity_date at 5 pm and your sister will be attending.
+"car, find the date and time for my tennis activity. your tennis activity is on tennis_activity_date at 5 pm and your sister will be attending. thanks",you're welcome
+schedule meeting,schedule a meeting for what time and day?
+schedule meeting schedule a meeting for what time and day? i need it for saturday at 1pm with sales team to go over budget.,setting meeting for saturday at 1pm with sales team to go over budget.
+"schedule meeting schedule a meeting for what time and day? i need it for saturday at 1pm with sales team to go over budget. setting meeting for saturday at 1pm with sales team to go over budget.  okay nice, thank you.",my pleasure.
+what is the weather going to be today and tomorrow,what city would you like to know the weather about?
+what is the weather going to be today and tomorrow what city would you like to know the weather about? i want to know if it will drizzle in durham,it is not predicted to drizzle any today or tomorrow in durham.
+what is the weather going to be today and tomorrow what city would you like to know the weather about? i want to know if it will drizzle in durham it is not predicted to drizzle any today or tomorrow in durham. thank you,anytime
+check forecast for today and tomorrow,what city do you want to hear the forecast for?
+check forecast for today and tomorrow what city do you want to hear the forecast for? mountain view,it will be overcast today and stormy tomorrow in mountain view.
+check forecast for today and tomorrow what city do you want to hear the forecast for? mountain view it will be overcast today and stormy tomorrow in mountain view. thanks.,you're welcome!
+what's the weather going to be like this week,what location should i look up the weekly forecast for?
+what's the weather going to be like this week what location should i look up the weekly forecast for?  will it be hot in brentwood?,it should not be hot in brentwood this week.
+what's the weather going to be like this week what location should i look up the weekly forecast for?  will it be hot in brentwood? it should not be hot in brentwood this week. thank you.,you're welcome!
+where is a nearby parking garage?,"the nearest one is palo alto garage r, it's just Palo_Alto_Garage_R_distance away"
+"where is a nearby parking garage? the nearest one is palo alto garage r, it's just Palo_Alto_Garage_R_distance away oh great job. thanks.",you're welcome!
+will there be drizzle in redwood city this weekend?,there will be no drizzle in redwood city this weekend.
+will there be drizzle in redwood city this weekend? there will be no drizzle in redwood city this weekend. thanks.,no problem!
+car please send me the fastest route to go back home,taking you home.
+car please send me the fastest route to go back home taking you home. what is the address?,home is home_address. anything else i can help you with?
+"car please send me the fastest route to go back home taking you home. what is the address? home is home_address. anything else i can help you with? please send me the fastest route on screen and let's go there, thank you!","got it, will do!"
+"car please send me the fastest route to go back home taking you home. what is the address? home is home_address. anything else i can help you with? please send me the fastest route on screen and let's go there, thank you! got it, will do! thanks for all your help.",you're welcome. i am always happy to help.
+make an appointment for the doctor on the 12th,at what time should i set the appointment?
+make an appointment for the doctor on the 12th at what time should i set the appointment?  set it at 7 pm please.,i have made an appointment for the doctor on the 12th at 7 pm.
+make an appointment for the doctor on the 12th at what time should i set the appointment?  set it at 7 pm please.  i have made an appointment for the doctor on the 12th at 7 pm.  thank you.,you are welcome
+what is the temperature for the next 7 days weather forecast,what city are you interested in?
+what is the temperature for the next 7 days weather forecast what city are you interested in? compton.,the temperature in compton will be between 70f and 100f on monday and compton_friday. during the other days of the week it will remain between 30f and 70f
+what is the temperature for the next 7 days weather forecast what city are you interested in? compton. the temperature in compton will be between 70f and 100f on monday and compton_friday. during the other days of the week it will remain between 30f and 70f thank you very much car!,you're very welcome.
+what will be the highest temperature on mountain_view_friday in mountain view?,"on mountain_view_friday, the highest temperature in mountain view is predicted to be 50f"
+"what will be the highest temperature on mountain_view_friday in mountain view? on mountain_view_friday, the highest temperature in mountain view is predicted to be 50f thanks.",anytime
+"remind me about my yoga activity with mother on the 15th of this month, it is at 3 pm.","okay, i will remind you of your yoga activity with your mother scheduled on the 15th of this month."
+"remind me about my yoga activity with mother on the 15th of this month, it is at 3 pm. okay, i will remind you of your yoga activity with your mother scheduled on the 15th of this month. schedule it for 3 pm.",setting reminder for yoga activity with your mother on the 15th at 3pm
+what time is my next tennis activity and who will be attending?,your next tennis activity is on the 4th at tennis_activity_time with your mother.
+what time is my next tennis activity and who will be attending? your next tennis activity is on the 4th at tennis_activity_time with your mother. thanks!,glad i can help.
+"car i need a hospital, please send me a quick route to the one near me in the direction we're driving",stanford express care is on the way.
+"car i need a hospital, please send me a quick route to the one near me in the direction we're driving stanford express care is on the way. please pick a quick route and let's go there, thank you!","navigating to stanford express care at 214 el camino real. there is Stanford_Express_Care_traffic_info on the way there, however."
+"car i need a hospital, please send me a quick route to the one near me in the direction we're driving stanford express care is on the way. please pick a quick route and let's go there, thank you! navigating to stanford express care at 214 el camino real. there is Stanford_Express_Care_traffic_info on the way there, however.  ok, thanks car!",you're very welcome.
+schedule a swimming activity on monday the 1st with my father at 4pm.,i will promptly schedule a swimming activity on monday the 1st with your father at 4pm.
+schedule a swimming activity on monday the 1st with my father at 4pm. i will promptly schedule a swimming activity on monday the 1st with your father at 4pm. thanks.,you're welcome.
+will there be clear skies in danville on danville_thursday?,dew is predicted in danville on danville_thursday
+will there be clear skies in danville on danville_thursday? dew is predicted in danville on danville_thursday thank you!,anytime!
+is it gonna snow in durham during the week?,durham does not have any snow predicted this week.
+is it gonna snow in durham during the week? durham does not have any snow predicted this week. thank you.,you are welcome.
+what is the weather like this week,what city do you want the weather for?
+what is the weather like this week what city do you want the weather for? cleveland.,"this week in cleveland the weather will be clear skies on monday, dew on tuesday, stormy on wednesday, drizzle on thrusday, cloudy on friday, overcast on saturday, and raining on cleveland_sunday"
+"what is the weather like this week what city do you want the weather for? cleveland. this week in cleveland the weather will be clear skies on monday, dew on tuesday, stormy on wednesday, drizzle on thrusday, cloudy on friday, overcast on saturday, and raining on cleveland_sunday thank.",you're very welcome!
+will it be dry in new york on new_york_wednesday?,it will be dry new_york_wednesday in new york.
+will it be dry in new york on new_york_wednesday? it will be dry new_york_wednesday in new york. thank you so much.,no problem.
+check weather forecast for seattle,for what day would you like to know?
+check weather forecast for seattle for what day would you like to know? please tell me the forecast in seattle this week.,"this week in seattle the weather is forecasted to be overcast, cloudy, windy, foggy, drzzle, warm ,and dry"
+"check weather forecast for seattle for what day would you like to know? please tell me the forecast in seattle this week. this week in seattle the weather is forecasted to be overcast, cloudy, windy, foggy, drzzle, warm ,and dry thank you.",you're welcome.
+find me a chinese restaurant with a no traffic route.,chef chu's is the only chinese restaurant but here is Chef_Chu's_traffic_info.
+find me a chinese restaurant with a no traffic route.  chef chu's is the only chinese restaurant but here is Chef_Chu's_traffic_info. send me the address anyway.,chef chu's is at Chef_Chu's_address.
+"find me a chinese restaurant with a no traffic route.  chef chu's is the only chinese restaurant but here is Chef_Chu's_traffic_info. send me the address anyway. chef chu's is at Chef_Chu's_address.  please pick a route with no traffic to get there, thanks!",there will be Chef_Chu's_traffic_info sorry.
+"find me a chinese restaurant with a no traffic route.  chef chu's is the only chinese restaurant but here is Chef_Chu's_traffic_info. send me the address anyway. chef chu's is at Chef_Chu's_address.  please pick a route with no traffic to get there, thanks! there will be Chef_Chu's_traffic_info sorry. that is ok, thank you.",you're welcome!
+can you find me a chinese restaurant that is within Chef_Chu's_distance?,chef chu's is Chef_Chu's_distance away.
+can you find me a chinese restaurant that is within Chef_Chu's_distance? chef chu's is Chef_Chu's_distance away. how is the traffic to there?,there is currently Chef_Chu's_traffic_info.
+"can you find me a chinese restaurant that is within Chef_Chu's_distance? chef chu's is Chef_Chu's_distance away. how is the traffic to there? there is currently Chef_Chu's_traffic_info. sounds good, set the gps please.","gps set, happy to assist you."
+what is the weather forecast for the weekend,for what city would you like to know that?
+"what is the weather forecast for the weekend for what city would you like to know that?  compton, what is the forecast for this week?",it will be rainy the first half of the week and then foggy the second and dry over the weekend in compton.
+"what is the weather forecast for the weekend for what city would you like to know that?  compton, what is the forecast for this week? it will be rainy the first half of the week and then foggy the second and dry over the weekend in compton. thanks.",you're welcome.
+will it be humid in fresno during the next week?,it will not be humid in fresno next week.
+will it be humid in fresno during the next week? it will not be humid in fresno next week. thanks.,anytime!
+find out the parties joining me and date for my doctor appointment.,"you have 4 doctor appointments scheduled: marie on the 15th, your brother on doctor_appointment_date, your mother on the 20th, and ana on the 12th."
+"find out the parties joining me and date for my doctor appointment. you have 4 doctor appointments scheduled: marie on the 15th, your brother on doctor_appointment_date, your mother on the 20th, and ana on the 12th. cool, thanks","my pleasure, goodbye."
+when's my tennis match,your tennis match is tuesday at 11am.
+when's my tennis match your tennis match is tuesday at 11am.  okay great. thank you.,you're very welcome.
+"when is my dentist appointment, the date and time?","for which one? i have two, one at 7pm dentist_appointment_date and one at 10am the 1st."
+"when is my dentist appointment, the date and time? for which one? i have two, one at 7pm dentist_appointment_date and one at 10am the 1st.  that will do, thanks.",you're welcome.
+will it rain next week,what location do you want me to check if it will be rainy?
+"will it rain next week what location do you want me to check if it will be rainy? los angeles, please",next week it will rain on los_angeles_saturday in los angeles
+"will it rain next week what location do you want me to check if it will be rainy? los angeles, please next week it will rain on los_angeles_saturday in los angeles thank you.",anytime.
+will it be warm in grand rapids on grand_rapids_saturday?,it will not be warm in grand rapids on grand_rapids_saturday.
+will it be warm in grand rapids on grand_rapids_saturday? it will not be warm in grand rapids on grand_rapids_saturday. thank you.,you are welcome.
+will it be warm in grand rapids on grand_rapids_saturday? it will not be warm in grand rapids on grand_rapids_saturday. thank you. you are welcome. bye.,no problem.
+i need directions to a local fast food restaurant please,there is a panda express Panda_Express_distance from you as well as a pizza hut 5 miles from you.
+i need directions to a local fast food restaurant please there is a panda express Panda_Express_distance from you as well as a pizza hut 5 miles from you.  please give me the address and directions to whichever restaurant is on a route where i can avoid heavy traffic.,panda express is at 842 arrowhead way with Panda_Express_traffic_info noted.
+i need directions to a local fast food restaurant please there is a panda express Panda_Express_distance from you as well as a pizza hut 5 miles from you.  please give me the address and directions to whichever restaurant is on a route where i can avoid heavy traffic.  panda express is at 842 arrowhead way with Panda_Express_traffic_info noted.  sounds good. set the gps for the there. thanks.,"i sent the info on your map, drive carefully!"
+get me the weather report for this week,what city do you want the weather for?
+get me the weather report for this week what city do you want the weather for? exeter,"it will be dry other than exeter_sunday, and the temperatures are expected to be between 70-100f monday and tuesday, 30-40f wednesday, 40-60f thursday, and 80-100 friday to exeter_sunday."
+"get me the weather report for this week what city do you want the weather for? exeter it will be dry other than exeter_sunday, and the temperatures are expected to be between 70-100f monday and tuesday, 30-40f wednesday, 40-60f thursday, and 80-100 friday to exeter_sunday. thanks!",you are welcome.
+what will be the temperature in manhattan on manhattan_wednesday?,it appears as if there will be a low of 40f and a high of 50f.
+what will be the temperature in manhattan on manhattan_wednesday? it appears as if there will be a low of 40f and a high of 50f. thank you car!,you're welcome!
+tell me all the events and meetings scheduled on my calendar for today,today you have a 7pm meeting with hr to meeting_agenda.
+tell me all the events and meetings scheduled on my calendar for today today you have a 7pm meeting with hr to meeting_agenda. thank you.,you are welcome.
+what's the weather like today and tomorrow,for what city would you like today and tomorrow's weather for?
+what's the weather like today and tomorrow for what city would you like today and tomorrow's weather for? i need to know if it is going to be foggy in fresno today and tomorrow car.,it will not be foggy in fresno in the coming days.
+what's the weather like today and tomorrow for what city would you like today and tomorrow's weather for? i need to know if it is going to be foggy in fresno today and tomorrow car. it will not be foggy in fresno in the coming days. thanks buddy.,you're welcome
+will there be drizzle in cleveland tomorrow?,it will not drizzle in cleveland tomorrow.
+will there be drizzle in cleveland tomorrow? it will not drizzle in cleveland tomorrow. thanks.,no problem.
+tell me the weather report in durham for this week,what days are you interested in?
+tell me the weather report in durham for this week what days are you interested in? the entire week.,"it will be stormy on monday, the lowest temperature on tuesday, hot on wednesday, the hottest temperatures on thursday and friday, snow on saturday, and clear skies on durham_sunday in durham."
+"tell me the weather report in durham for this week what days are you interested in? the entire week. it will be stormy on monday, the lowest temperature on tuesday, hot on wednesday, the hottest temperatures on thursday and friday, snow on saturday, and clear skies on durham_sunday in durham. perfect.",you are welcome.
+schedule a conference with the vice president on the 5th at 11am.,conference scheduled for the 5th at 11am with the vice president.
+schedule a conference with the vice president on the 5th at 11am. conference scheduled for the 5th at 11am with the vice president. perfect.,have a good day.
+when is my dentist appointment,you have a dentist appointment on dentist_appointment_date at 7 pm.
+when is my dentist appointment you have a dentist appointment on dentist_appointment_date at 7 pm. thank you.,you're welcome.
+please give me the address and directions via the fastest route to a pizza restaurant within 4 miles of me.,you will find pizza chicago at 915 arbol dr. it is Pizza_Chicago_distance away without any traffic
+"please give me the address and directions via the fastest route to a pizza restaurant within 4 miles of me.  you will find pizza chicago at 915 arbol dr. it is Pizza_Chicago_distance away without any traffic ok, please direct me there via the fastest route.",fastest route being programmed for pizza chicago.
+"please give me the address and directions via the fastest route to a pizza restaurant within 4 miles of me.  you will find pizza chicago at 915 arbol dr. it is Pizza_Chicago_distance away without any traffic ok, please direct me there via the fastest route.  fastest route being programmed for pizza chicago.  okay thanks",you're welcome!
+pull up directions to 5672_barringer_street_address,here are directions to 5672_barringer_street_address.
+"pull up directions to 5672_barringer_street_address here are directions to 5672_barringer_street_address. pick a route with no traffic and let's go there, thank you!","the only route has 5672_barringer_street_traffic_info, is that alright?"
+"pull up directions to 5672_barringer_street_address here are directions to 5672_barringer_street_address. pick a route with no traffic and let's go there, thank you! the only route has 5672_barringer_street_traffic_info, is that alright? yes, patience, i need to get there anyway.. thank you car, send the info on my screen please!",directing to 5672_barringer_street_address now.
+"pull up directions to 5672_barringer_street_address here are directions to 5672_barringer_street_address. pick a route with no traffic and let's go there, thank you! the only route has 5672_barringer_street_traffic_info, is that alright? yes, patience, i need to get there anyway.. thank you car, send the info on my screen please! directing to 5672_barringer_street_address now. thanks.",you're welcome and have a great day.
+"car i need to go back home, it's in the area, please pick a route with no traffic",taking you home.
+"car i need to go back home, it's in the area, please pick a route with no traffic taking you home. what is my address?","your address is 5671 barringer street, we're home_distance away from home now"
+"car i need to go back home, it's in the area, please pick a route with no traffic taking you home. what is my address? your address is 5671 barringer street, we're home_distance away from home now set gps for a route home with zero to no traffic.",your gps has been set for home.
+"car i need to go back home, it's in the area, please pick a route with no traffic taking you home. what is my address? your address is 5671 barringer street, we're home_distance away from home now set gps for a route home with zero to no traffic. your gps has been set for home. thank you","you're welcome, happy to help."
+where can i get tea?,palo alto cafe is Palo_Alto_Cafe_distance away and serves coffee and tea. do you want the address?
+where can i get tea? palo alto cafe is Palo_Alto_Cafe_distance away and serves coffee and tea. do you want the address? yes.,palo alto is located at Palo_Alto_Cafe_address.
+where can i get tea? palo alto cafe is Palo_Alto_Cafe_distance away and serves coffee and tea. do you want the address? yes. palo alto is located at Palo_Alto_Cafe_address.  sounds great. thank you.,you're welcome!
+is it going to be overcast or cloudy at all any day this week,what city do you want the weather for?
+is it going to be overcast or cloudy at all any day this week what city do you want the weather for? i need this forecast information for the city of carson.,it won't be overcast or cloudy at all this week in carson
+is it going to be overcast or cloudy at all any day this week what city do you want the weather for? i need this forecast information for the city of carson.  it won't be overcast or cloudy at all this week in carson thanks.,you are welcome.
+set reminder for doctors appointment on the 12th at 4:50,ok i've set a reminder for your doctor's appointment on the 12th at 4:50
+i need shopping center.,there is a shopping center Midtown_Shopping_Center_distance from you. the address is 338 alester avenue. would you like directions?
+"i need shopping center.  there is a shopping center Midtown_Shopping_Center_distance from you. the address is 338 alester avenue. would you like directions? yes, please.","setting navigation to the midtown shopping center. there is a Midtown_Shopping_Center_traffic_info, so drive carefully."
+"i need shopping center.  there is a shopping center Midtown_Shopping_Center_distance from you. the address is 338 alester avenue. would you like directions? yes, please. setting navigation to the midtown shopping center. there is a Midtown_Shopping_Center_traffic_info, so drive carefully.  thank you car, pick the shortest distance for me please!","i sent the info on your screen, drive carefully!"
+what's the weather forecast,what city would you like the forecast for?
+what's the weather forecast what city would you like the forecast for? grand rapids.,"it will be dry today, snowy on tuesday, dew on wednesday, warm on thursday, misty on friday, snow on saturday and cloudy on grand_rapids_sunday in grand rapids."
+"what's the weather forecast what city would you like the forecast for? grand rapids. it will be dry today, snowy on tuesday, dew on wednesday, warm on thursday, misty on friday, snow on saturday and cloudy on grand_rapids_sunday in grand rapids. thank you very much car!",you're welcome!
+schedule a football activity with ana for today at 11am.,scheduled football activity for today at 11 am with ana.
+schedule a football activity with ana for today at 11am. scheduled football activity for today at 11 am with ana.  thank you.,no problem.
+make a note that at 5 pm on the 12th i have yoga,making a note for yoga at 5pm on the 12th.
+what is the weather like right now,what city shall i check for you?
+what is the weather like right now what city shall i check for you? please check exeter: is it humid?,today is not humid in exeter. it is exeter_monday.
+what is the weather like right now what city shall i check for you? please check exeter: is it humid? today is not humid in exeter. it is exeter_monday. thank you!,you're welcome!
+will it be raining this week in redwood city?,there isn't any rain predicted to fall in redwood city this week
+will it be raining this week in redwood city? there isn't any rain predicted to fall in redwood city this week thank you.,anytime.
+what is the weather going to be like tomorrow show me the 7 day forecast,what city are you interested in?
+what is the weather going to be like tomorrow show me the 7 day forecast what city are you interested in? fresno: there will be hail tomorrow?,tomorrow in fresno it will rain
+what is the weather going to be like tomorrow show me the 7 day forecast what city are you interested in? fresno: there will be hail tomorrow? tomorrow in fresno it will rain so no hail tomorrow in fresno?,"no hail in fresno, tomorrow there will be rain"
+"what is the weather going to be like tomorrow show me the 7 day forecast what city are you interested in? fresno: there will be hail tomorrow? tomorrow in fresno it will rain so no hail tomorrow in fresno? no hail in fresno, tomorrow there will be rain thanks.",until next time!
+what is the weather like in the city,what city are you interested in?
+what is the weather like in the city what city are you interested in? what is the weather in compton on compton_sunday?,"it will be cloudy, with a low of 90f and a high of 100f in compton on compton_sunday."
+"what is the weather like in the city what city are you interested in? what is the weather in compton on compton_sunday? it will be cloudy, with a low of 90f and a high of 100f in compton on compton_sunday. thanks.",anytime.
+what time is my doctor's appointment,your doctor's appointment is scheduled for friday at 11 am.
+what's the temperature going to be like today and tomorrow,what city are you wanting to know the temperature for?
+what's the temperature going to be like today and tomorrow what city are you wanting to know the temperature for? seattle,it will be between 60-70f today and 30-40f tomorrow in seattle.
+what's the temperature going to be like today and tomorrow what city are you wanting to know the temperature for? seattle it will be between 60-70f today and 30-40f tomorrow in seattle. thank you.,no problem.
+is there a parking garage within 2 miles?,"yes, i have one listed that is 1 mile away."
+"is there a parking garage within 2 miles? yes, i have one listed that is 1 mile away.  that's great! please pick the quickest route and send me the address on screen, thank you!","then let's go at palo alto garage r, i sent the info on your screen!"
+"is there a parking garage within 2 miles? yes, i have one listed that is 1 mile away.  that's great! please pick the quickest route and send me the address on screen, thank you! then let's go at palo alto garage r, i sent the info on your screen! fantastic. thanks, car!",you are welcome
+find starbucks,the nearest starbucks is Starbucks_distance away. there is a road block on its way so i already sent on your screen another route to reach faster
+find starbucks the nearest starbucks is Starbucks_distance away. there is a road block on its way so i already sent on your screen another route to reach faster is is the quickest one available? i really need my morning coffee!,"yes, it is, hope you can have your coffee soon!"
+"find starbucks the nearest starbucks is Starbucks_distance away. there is a road block on its way so i already sent on your screen another route to reach faster is is the quickest one available? i really need my morning coffee! yes, it is, hope you can have your coffee soon! where is the starbucks?",the starbucks is located at Starbucks_address. setting navigation now.
+"find starbucks the nearest starbucks is Starbucks_distance away. there is a road block on its way so i already sent on your screen another route to reach faster is is the quickest one available? i really need my morning coffee! yes, it is, hope you can have your coffee soon! where is the starbucks? the starbucks is located at Starbucks_address. setting navigation now.   thank you.","you're welcome; drive safely, and enjoy."
+will it be foggy on redwood_city_tuesday in redwood city?,it will be cloudy but not foggy in redwood city on redwood_city_tuesday.
+will it be foggy on redwood_city_tuesday in redwood city? it will be cloudy but not foggy in redwood city on redwood_city_tuesday.  thank you,glad i could help out
+directions to the mall,navigating you to town and country.
+"directions to the mall navigating you to town and country. thank you car, please pick the fastest route",setting gps for fastest route with Town_and_Country_traffic_info
+"directions to the mall navigating you to town and country. thank you car, please pick the fastest route setting gps for fastest route with Town_and_Country_traffic_info sounds great and can you tell me the address?","the address is Town_and_Country_address, i sent it on your screen"
+"directions to the mall navigating you to town and country. thank you car, please pick the fastest route setting gps for fastest route with Town_and_Country_traffic_info sounds great and can you tell me the address? the address is Town_and_Country_address, i sent it on your screen awesome, goodbye.",you're welcome and we should be there soon.
+what time do i go to yoga and who is going with me?,yoga is with alex at 11 am.
+what time do i go to yoga and who is going with me? yoga is with alex at 11 am. thanks.,you are welcome.
+check the date and time of my doctor's appointment,your appointment is for tuesday at 11 am.
+"car i need to get to a gas station, please show me the nearest one",there is valero Valero_distance away with moderate traffic on our way
+"car i need to get to a gas station, please show me the nearest one there is valero Valero_distance away with moderate traffic on our way alright, where is it located?",valero is at Valero_address.
+"car i need to get to a gas station, please show me the nearest one there is valero Valero_distance away with moderate traffic on our way alright, where is it located? valero is at Valero_address. please pick the fastest route to get there","there is Valero_traffic_info on our way, i sent the route on your screen"
+"car i need to get to a gas station, please show me the nearest one there is valero Valero_distance away with moderate traffic on our way alright, where is it located? valero is at Valero_address. please pick the fastest route to get there there is Valero_traffic_info on our way, i sent the route on your screen thank you car!",you're welcome!
+"i want to find the agenda, location, and time for my meeting.","you have two meetings scheduled, one at 4pm in conference room 102 to discuss the company picnic, and one at 6pm in meeting_room to go over the quarterly report."
+"i want to find the agenda, location, and time for my meeting. you have two meetings scheduled, one at 4pm in conference room 102 to discuss the company picnic, and one at 6pm in meeting_room to go over the quarterly report. thanks.",you're welcome.
+tell me when is my next meeting and who are invited in the meeting and what are the agenda of the next meeting,your next meeting is on meeting_date at 7 pm with the infrastructure team to go over budget.
+take me to the parking garage closest to my destination,"the nearest parking garage is palo alto garage r, it's Palo_Alto_Garage_R_distance away. navigate you there?"
+"take me to the parking garage closest to my destination the nearest parking garage is palo alto garage r, it's Palo_Alto_Garage_R_distance away. navigate you there? sure, thank you, just pick the quickest route and send me the address on screen","i sent the info and the quickest info on your screen, you're welcome!"
+schedule a swimming activity with jon for december 10th at 3pm.,your swimming activity with jon has been scheduled for dec 10th at 3pm.
+schedule a swimming activity with jon for december 10th at 3pm. your swimming activity with jon has been scheduled for dec 10th at 3pm. thank you.,it is my job and pleasure.
+i would like to know who is attending my meeting and when it is.,your boss will be at the meeting on meeting_date at 1 pm.
+i would like to know who is attending my meeting and when it is.  your boss will be at the meeting on meeting_date at 1 pm. thanks.,happy to help
+is it going to snow this week,what location do you want to know if it will snow?
+"is it going to snow this week what location do you want to know if it will snow? mountain view, please!",it will snow on mountain_view_tuesday in mountain view.
+"is it going to snow this week what location do you want to know if it will snow? mountain view, please! it will snow on mountain_view_tuesday in mountain view. thanks.",no problem.
+i need to schedule a doctor's appointment,when?
+i need to schedule a doctor's appointment when? it's at 1 pm today.,okay. we set up your doctor's appointment today at 1 pm.
+show me the nearest shopping mall,we're Topanga_Mall_distance away from topanga mall and there is heavy traffic on its way
+"show me the nearest shopping mall we're Topanga_Mall_distance away from topanga mall and there is heavy traffic on its way okay, where is it located?",you will find topanga mall at Topanga_Mall_address
+"show me the nearest shopping mall we're Topanga_Mall_distance away from topanga mall and there is heavy traffic on its way okay, where is it located? you will find topanga mall at Topanga_Mall_address direction please.",setting navigation now.
+"show me the nearest shopping mall we're Topanga_Mall_distance away from topanga mall and there is heavy traffic on its way okay, where is it located? you will find topanga mall at Topanga_Mall_address direction please. setting navigation now.  thank you.",you're welcome; drive safely.
+"show me the nearest shopping mall we're Topanga_Mall_distance away from topanga mall and there is heavy traffic on its way okay, where is it located? you will find topanga mall at Topanga_Mall_address direction please. setting navigation now.  thank you.  you're welcome; drive safely.  [end conversation]",bye!
+"car i need a rest stop in the area, please pick something and avoid all heavy traffic",the westin is The_Westin_distance away with moderate traffic. will that help?
+"car i need a rest stop in the area, please pick something and avoid all heavy traffic the westin is The_Westin_distance away with moderate traffic. will that help? sounds great. send me that address.",the westin is at The_Westin_address. do you need me to set the navigation?
+"car i need a rest stop in the area, please pick something and avoid all heavy traffic the westin is The_Westin_distance away with moderate traffic. will that help? sounds great. send me that address.  the westin is at The_Westin_address. do you need me to set the navigation? sure, please do!",navigation set. have a great day.
+can you find out for me the date and parties attending my dinner?,your dinner is on dinner_date with your sister.
+can you find out for me the date and parties attending my dinner? your dinner is on dinner_date with your sister. thanks.,you're welcome
+look up san francisco's two day weather info to see if it will be warm,it will be stormy and hailing in san francisco in the next two days.
+look up san francisco's two day weather info to see if it will be warm it will be stormy and hailing in san francisco in the next two days. thank you.,no problem.
+i need to find out the date and time for my lab appointment.,"for which one? i have two, one on lab_appointment_date at 11 am and one on wednesday at 11 am."
+"i need to find out the date and time for my lab appointment.  for which one? i have two, one on lab_appointment_date at 11 am and one on wednesday at 11 am.  thanks that will do car.",you're welcome.
+is it going to rain in the next 7 days,where are you wanting to know if it's going to rain or not?
+is it going to rain in the next 7 days where are you wanting to know if it's going to rain or not? in san francisco,it is not going to rain in san francisco this week.
+is it going to rain in the next 7 days where are you wanting to know if it's going to rain or not? in san francisco it is not going to rain in san francisco this week. thanks.,no problem.
+what's the weather like today and tomorrow,what city are you wanting to know the weather for?
+"what's the weather like today and tomorrow what city are you wanting to know the weather for? seatlle, i want to know if it will be foggy today and tomorrow.",tomorrow in seattle is looking warm with a low of 70f and a high of 90f. no sign of fog.
+"what's the weather like today and tomorrow what city are you wanting to know the weather for? seatlle, i want to know if it will be foggy today and tomorrow. tomorrow in seattle is looking warm with a low of 70f and a high of 90f. no sign of fog. thanks!",no problem!
+show me the weather for the next 7 days,what city would you like the 7 day forecast for?
+show me the weather for the next 7 days what city would you like the 7 day forecast for? will it be humid in compton?,it should not be humid in compton next week.
+show me the weather for the next 7 days what city would you like the 7 day forecast for? will it be humid in compton? it should not be humid in compton next week. thanks.,anytime!
+where does my friend live?,tom lives at 580 van ness ave.
+where does my friend live? tom lives at 580 van ness ave. ok set the gps. thanks.,"i did, you're welcome!"
+remind me to watch the football game on the 1st,what time on the 1st should i set a reminder to watch the football game?
+remind me to watch the football game on the 1st what time on the 1st should i set a reminder to watch the football game? at 2 pm please.,i have set a reminder for the football game at 2 pm on the 1st
+remind me to watch the football game on the 1st what time on the 1st should i set a reminder to watch the football game? at 2 pm please. i have set a reminder for the football game at 2 pm on the 1st thanks.,you are welcome
+check doctor's appointment date,your doctor appointment is on doctor_appointment_date at 2 pm.
+give me weather forecast for today,what city do you want the weather forecast for?
+"give me weather forecast for today what city do you want the weather forecast for? downtown chicago, please",today in downtown chicago there should be hail with a high of 70f
+"give me weather forecast for today what city do you want the weather forecast for? downtown chicago, please today in downtown chicago there should be hail with a high of 70f thanks",you're welcome!
+which temperature there will be in alhambra on alhambra_thursday?,"on alhambra_thursday the temperature in alhambra will be low of 20f, and high of 30f"
+"which temperature there will be in alhambra on alhambra_thursday? on alhambra_thursday the temperature in alhambra will be low of 20f, and high of 30f thanks!",happy to help
+what day and time is my dental appointment set for?,"the 4th at 1pm with tom, the 10th at 9am with ana, the 13th at 9am with your father, the 5th at 2pm with alex, and the 10th at 4pm with your sister."
+what is the weather like in the city,what city are you inquiring about?
+what is the weather like in the city what city are you inquiring about? i am in durham.,what would you like to know about the weather in durham?
+what is the weather like in the city what city are you inquiring about? i am in durham. what would you like to know about the weather in durham? will there be a blizzard?,the weekly forecast does not show that there will be a blizzard in durham this week.
+what is the weather like in the city what city are you inquiring about? i am in durham. what would you like to know about the weather in durham? will there be a blizzard? the weekly forecast does not show that there will be a blizzard in durham this week. thanks.,not a problem.
+what's the weather like in new york,is there a specific day you would like to know the weather for in new york?
+what's the weather like in new york is there a specific day you would like to know the weather for in new york? i need to know about new_york_friday please.,it will be dry and between 30-50f new_york_friday in new york.
+what's the weather like in new york is there a specific day you would like to know the weather for in new york? i need to know about new_york_friday please.  it will be dry and between 30-50f new_york_friday in new york. thanks.,no problem.
+schedule taking medicine at 6 pm on the 13th of next month with my brother.,taking medicine with your brother at 6pm on the 13th has been scheduled.
+is it cloudy in cleveland today?,it is cloudy right now in cleveland.
+is it cloudy in cleveland today? it is cloudy right now in cleveland. thanks.,you're welcome.
+i need the closest hospital.,the palo alto medical foundation is Palo_Alto_Medical_Foundation_distance away at 611 ames ave. would you like directions there?
+"i need the closest hospital.  the palo alto medical foundation is Palo_Alto_Medical_Foundation_distance away at 611 ames ave. would you like directions there? yes, please give me directions via the route with no traffic.","there is Palo_Alto_Medical_Foundation_traffic_info on our way and you should be able to reach there fast. i sent all the info on your screen, drive carefully!"
+"i need the closest hospital.  the palo alto medical foundation is Palo_Alto_Medical_Foundation_distance away at 611 ames ave. would you like directions there? yes, please give me directions via the route with no traffic. there is Palo_Alto_Medical_Foundation_traffic_info on our way and you should be able to reach there fast. i sent all the info on your screen, drive carefully! thank you car!",you're welcome.
+info about football please.,your football  activity is on sunday at 9 am with your brother.
+"info about football please.  your football  activity is on sunday at 9 am with your brother.  thanks, that's all.",happy to help
+take me to the nearest grocery store,there is a safeway Safeway_distance away: would you like to get its address?
+take me to the nearest grocery store there is a safeway Safeway_distance away: would you like to get its address? yes.,safeway is at Safeway_address.
+"take me to the nearest grocery store there is a safeway Safeway_distance away: would you like to get its address? yes. safeway is at Safeway_address. thank you car, pick a route with no traffic and let's go there!",the only route has Safeway_traffic_info is that going to be okay?
+"take me to the nearest grocery store there is a safeway Safeway_distance away: would you like to get its address? yes. safeway is at Safeway_address. thank you car, pick a route with no traffic and let's go there! the only route has Safeway_traffic_info is that going to be okay? where is the nearest grocery store with no traffic?","safeway is the only grocery store listed, it has Safeway_traffic_info. will that be ok?"
+"take me to the nearest grocery store there is a safeway Safeway_distance away: would you like to get its address? yes. safeway is at Safeway_address. thank you car, pick a route with no traffic and let's go there! the only route has Safeway_traffic_info is that going to be okay? where is the nearest grocery store with no traffic? safeway is the only grocery store listed, it has Safeway_traffic_info. will that be ok? yes please set the gps for there.",setting destination now.
+"take me to the nearest grocery store there is a safeway Safeway_distance away: would you like to get its address? yes. safeway is at Safeway_address. thank you car, pick a route with no traffic and let's go there! the only route has Safeway_traffic_info is that going to be okay? where is the nearest grocery store with no traffic? safeway is the only grocery store listed, it has Safeway_traffic_info. will that be ok? yes please set the gps for there.  setting destination now.  thank you.",you're welcome.
+is it currently hailing in manhattan?,"it is not hailing in manhattan, the forecast says it is dry today."
+"is it currently hailing in manhattan?  it is not hailing in manhattan, the forecast says it is dry today. thank you car!",any time.
+is it going to be cloudy this week,could you please let me know what place i am looking up the data for?
+is it going to be cloudy this week could you please let me know what place i am looking up the data for? boston,this week boston does not have any weather predictions of it being cloudy
+"is it going to be cloudy this week could you please let me know what place i am looking up the data for? boston this week boston does not have any weather predictions of it being cloudy thanks car, that works.",no problem my driver!
+check weather for new york city,for which time period did you want weather information?
+"check weather for new york city for which time period did you want weather information? i need current weather data about new york, specifically information about the temperature.",it is between 50-70f in new york right now.
+"check weather for new york city for which time period did you want weather information? i need current weather data about new york, specifically information about the temperature.  it is between 50-70f in new york right now. awesome.",no problem.
+what's the temperature going to be like this week,what city are you in?
+what's the temperature going to be like this week what city are you in? i'm in manhattan,this week in manhattan the temperature will range from 20f to 100f
+what's the temperature going to be like this week what city are you in? i'm in manhattan this week in manhattan the temperature will range from 20f to 100f thank you very much car!,i'm here to assist you!
+set a reminder for me to take my medicine at 9am on sunday with by brother frank.,"okay, setting a reminder to take medicine with your brother frank at 9 am on sunday."
+"set a reminder for me to take my medicine at 9am on sunday with by brother frank. okay, setting a reminder to take medicine with your brother frank at 9 am on sunday. thank you",no problem!
+"i need to know my conference agenda, date and who is attending.",your conference is set for conference_date with your boss to go over budget.
+"i need to know my conference agenda, date and who is attending.  your conference is set for conference_date with your boss to go over budget. great, and who all will be there?",the conference is with your conference_party.
+"i need to know my conference agenda, date and who is attending.  your conference is set for conference_date with your boss to go over budget. great, and who all will be there? the conference is with your conference_party. thanks.",you're welcome. don't forget it's held in conference_room.
+"i need to know my conference agenda, date and who is attending.  your conference is set for conference_date with your boss to go over budget. great, and who all will be there? the conference is with your conference_party. thanks. you're welcome. don't forget it's held in conference_room. thank you.",no problem
+where does my friend live?,jack lives at 864 almanor ln.
+where does my friend live? jack lives at 864 almanor ln. thanks.,you're welcome!
+get me directions to the nearest starbucks,there is no starbucks locally.
+get me directions to the nearest starbucks there is no starbucks locally.  any coffee shops locally?,teavana is Teavana_distance away at 145 amherst st. with moderate traffic.
+"get me directions to the nearest starbucks there is no starbucks locally.  any coffee shops locally? teavana is Teavana_distance away at 145 amherst st. with moderate traffic.  ok, please give me the directions via the fastest route.",the current route is the fastest one i can find
+"get me directions to the nearest starbucks there is no starbucks locally.  any coffee shops locally? teavana is Teavana_distance away at 145 amherst st. with moderate traffic.  ok, please give me the directions via the fastest route.  the current route is the fastest one i can find great, thank you",you're welcome!
+where can i find a parking garage?,palo alto garage r	is at Palo_Alto_Garage_R_address.
+where can i find a parking garage? palo alto garage r	is at Palo_Alto_Garage_R_address. is that the quickest route?,"i will send on your screen the quickest route, sure, there is Palo_Alto_Garage_R_traffic_info now and we will have to make the route slightly longer"
+"where can i find a parking garage? palo alto garage r	is at Palo_Alto_Garage_R_address. is that the quickest route? i will send on your screen the quickest route, sure, there is Palo_Alto_Garage_R_traffic_info now and we will have to make the route slightly longer ok thanks for the notification.","you're welcome, we should arrive shortly."
+which day is my appointment on,which appointment would you like the date for?
+will there be clear skies in fresno on fresno_wednesday?,"the forecast says there will be snow in fresno, there is no mention of clear skies on fresno_wednesday."
+"will there be clear skies in fresno on fresno_wednesday? the forecast says there will be snow in fresno, there is no mention of clear skies on fresno_wednesday. thank you",you are welcome
+directions to the grocery store,whole foods located at 819 alma st is 1 mile away although there is a Whole_Foods_traffic_info
+"directions to the grocery store whole foods located at 819 alma st is 1 mile away although there is a Whole_Foods_traffic_info ok, please give me directions via the quickest route.",the current route is the quickest
+"directions to the grocery store whole foods located at 819 alma st is 1 mile away although there is a Whole_Foods_traffic_info ok, please give me directions via the quickest route.  the current route is the quickest ok, thank you.",you're welcome!
+what time is my next dinner event and who will be attending?,the one at 6pm with jon is on dinner_date
+"what time is my next dinner event and who will be attending? the one at 6pm with jon is on dinner_date  that will do, thanks.",glad i can help.
+schedule swimming time,what time do you want to go swimming
+is there a chance of snow in this weeks weather forecast,what city would you like to hear this weather information for?
+"is there a chance of snow in this weeks weather forecast what city would you like to hear this weather information for? san mateo, please",it will not snow in san mateo this week.
+"is there a chance of snow in this weeks weather forecast what city would you like to hear this weather information for? san mateo, please it will not snow in san mateo this week. thank you!",you're welcome!
+what is the current temperature,which location do you want to know the current temperature of?
+what is the current temperature which location do you want to know the current temperature of? alameda,"the temperature in alameda now is low 60f, and high 80f"
+"what is the current temperature which location do you want to know the current temperature of? alameda the temperature in alameda now is low 60f, and high 80f okay, thank you",you are welcome
+will there be clear skies in san francisco on san_francisco_friday?,on san_francisco_friday on san francisco the weather will be dry with a high of 80f.
+will there be clear skies in san francisco on san_francisco_friday? on san_francisco_friday on san francisco the weather will be dry with a high of 80f. thanks.,anytime.
+find me a hotel somewhere near my current location,the clement hotel is The_Clement_Hotel_distance away at 657 ames ave.
+find me a hotel somewhere near my current location the clement hotel is The_Clement_Hotel_distance away at 657 ames ave.  can you send me the fastest route to go there?,there is currently The_Clement_Hotel_traffic_info on the way to the hotel; setting directions now.
+find me a hotel somewhere near my current location the clement hotel is The_Clement_Hotel_distance away at 657 ames ave.  can you send me the fastest route to go there? there is currently The_Clement_Hotel_traffic_info on the way to the hotel; setting directions now.  thank you.,you're welcome!
+what is the weather going to be like today and tomorrow,what city are you wanting to know the weather for?
+what is the weather going to be like today and tomorrow what city are you wanting to know the weather for? los angeles,"in los angeles, it is going to be hot today with a low of 40f and a high of 60f.  tomorrow will be rainy with a low of 40f and a high of 60f."
+"what is the weather going to be like today and tomorrow what city are you wanting to know the weather for? los angeles in los angeles, it is going to be hot today with a low of 40f and a high of 60f.  tomorrow will be rainy with a low of 40f and a high of 60f. awesome, thanks.",anytime.
+what's the weather forecast,what city are you inquiring about?
+"what's the weather forecast what city are you inquiring about? find out if there is hail outside right now, for seattle please.",in seattle there is snow right now
+"what's the weather forecast what city are you inquiring about? find out if there is hail outside right now, for seattle please.  in seattle there is snow right now thank you!",you are most welcome.
+will it snow this week,what city can i check for snow for you?
+will it snow this week what city can i check for snow for you? alameda,snow is predicted to fall on alameda_saturday in alameda
+will it snow this week what city can i check for snow for you? alameda snow is predicted to fall on alameda_saturday in alameda thank you car!,you're welcome!
+remind me to watch football on sunday,what time would like the reminder?
+remind me to watch football on sunday what time would like the reminder? 2 pm,i have set a reminder for sunday at 2 pm
+remind me to watch football on sunday what time would like the reminder? 2 pm  i have set a reminder for sunday at 2 pm thank you,you are welcome.
+schedule a dentist appointment at 3 next month on the 12th,"i've scheduled a dentist appointment for 3pm on the 12th, anything else?"
+"schedule a dentist appointment at 3 next month on the 12th i've scheduled a dentist appointment for 3pm on the 12th, anything else? can you confirm you set the dentist appointment for next month on the 12th?",i have scheduled the appointment.
+where is the closest tea house?,peets coffee also serves tea. they are Peets_Coffee_distance away at 9981 archuleta ave
+where is the closest tea house? peets coffee also serves tea. they are Peets_Coffee_distance away at 9981 archuleta ave how's the traffic?,Peets_Coffee_traffic_info is listed to peets coffee.
+"where is the closest tea house? peets coffee also serves tea. they are Peets_Coffee_distance away at 9981 archuleta ave how's the traffic? Peets_Coffee_traffic_info is listed to peets coffee.  sounds good, let's get going.",displaying directions now.
+"where is the closest tea house? peets coffee also serves tea. they are Peets_Coffee_distance away at 9981 archuleta ave how's the traffic? Peets_Coffee_traffic_info is listed to peets coffee.  sounds good, let's get going.  displaying directions now.  thanks for the help.","you're welcome; drive safely, and enjoy."
+will you find me the fastest route to a rest stop,the westin is located The_Westin_distance away with no traffic. setting directions now to 329 el camino real
+"will you find me the fastest route to a rest stop the westin is located The_Westin_distance away with no traffic. setting directions now to 329 el camino real pick the fastest route please, thank you car!",setting navigation now.
+"will you find me the fastest route to a rest stop the westin is located The_Westin_distance away with no traffic. setting directions now to 329 el camino real pick the fastest route please, thank you car! setting navigation now.  thank you car!",you're welcome!
+"who's showing up for tennis, and what's the date on that?",tennis_activity_party and jeff will be attending your tennis activity.
+"who's showing up for tennis, and what's the date on that? tennis_activity_party and jeff will be attending your tennis activity. what time will they be there?",they will be there at 1 pm.
+"who's showing up for tennis, and what's the date on that? tennis_activity_party and jeff will be attending your tennis activity. what time will they be there? they will be there at 1 pm.  thank you assistant!",you are welcome.
+what's the forecast report,what city do you want to hear the forecast report from?
+"what's the forecast report what city do you want to hear the forecast report from? camarillo, please. tell me if it will be foggy on camarillo_friday",it will be stormy in camarillon on camarillo_friday.
+"what's the forecast report what city do you want to hear the forecast report from? camarillo, please. tell me if it will be foggy on camarillo_friday it will be stormy in camarillon on camarillo_friday. thank you.",you're welcome.
+will it snow in fresno during this week?,fresno_saturday it will snow in fresno
+will it snow in fresno during this week? fresno_saturday it will snow in fresno thank you very much!,glad to help
+what day is the football game,the football game is on thursday.
+what is on my schedule today,you have an optometrist appointment today at 1pm.
+check my agenda for my meetings,the agenda for your meeting is to meeting_agenda.
+"check my agenda for my meetings the agenda for your meeting is to meeting_agenda. okay, i want to find out what time my meeting is and where and what day please.",your meeting is on meeting_date at 3pm in conference room 100.
+"check my agenda for my meetings the agenda for your meeting is to meeting_agenda. okay, i want to find out what time my meeting is and where and what day please.  your meeting is on meeting_date at 3pm in conference room 100. perfect, thank you.",you're welcome
+will it be cloudy in inglewood next week?,there aren't any cloudy days in the forecast for inglewood.
+"will it be cloudy in inglewood next week? there aren't any cloudy days in the forecast for inglewood. okay, thanks",you're welcome!
+when am i going swimming?,you have two swimming activities scheduled. one on wednesday at 5pm and the other on the 5th at 4pm.
+when am i going swimming? you have two swimming activities scheduled. one on wednesday at 5pm and the other on the 5th at 4pm. thank you kindly.,no problem.
+navigate home,home is 5 miles away at 5671 barringer street.
+navigate home home is 5 miles away at 5671 barringer street. is that route avoiding heavy traffic?,no the only route available has heavy traffic. i'm sorry.
+navigate home home is 5 miles away at 5671 barringer street. is that route avoiding heavy traffic? no the only route available has heavy traffic. i'm sorry.  that is ok.,"sorry about it, enjoy some music in the meantime!"
+schedule a swimming activity with marie on sunday at 6pm.,"okay, i will set a schedule for a swimming activity with marie on sunday at 6pm."
+"schedule a swimming activity with marie on sunday at 6pm. okay, i will set a schedule for a swimming activity with marie on sunday at 6pm.  thank you.",you are welcome.
+find the nearest hotel,"the nearest hotel is hotel keen, it's Hotel_Keen_distance away. do you want its address?"
+"find the nearest hotel the nearest hotel is hotel keen, it's Hotel_Keen_distance away. do you want its address? yes sounds great.","578 arbol dr, there is Hotel_Keen_traffic_info and you should arrive in a couple minutes"
+"find the nearest hotel the nearest hotel is hotel keen, it's Hotel_Keen_distance away. do you want its address? yes sounds great.  578 arbol dr, there is Hotel_Keen_traffic_info and you should arrive in a couple minutes set my gps for the quickest route possible please.","i picked the best route for you, drive carefully!"
+"find the nearest hotel the nearest hotel is hotel keen, it's Hotel_Keen_distance away. do you want its address? yes sounds great.  578 arbol dr, there is Hotel_Keen_traffic_info and you should arrive in a couple minutes set my gps for the quickest route possible please. i picked the best route for you, drive carefully! thank you car!",you're welcome!
+what is a quick route home?,"there is heavy traffic in this moment but we're just home_distance away, it shouldn't take too long to reach there"
+"what is a quick route home? there is heavy traffic in this moment but we're just home_distance away, it shouldn't take too long to reach there please direct me via the quickest possible route.","i sent all the info on your screen, drive carefully!"
+"what is a quick route home? there is heavy traffic in this moment but we're just home_distance away, it shouldn't take too long to reach there please direct me via the quickest possible route.  i sent all the info on your screen, drive carefully! thank you car!",you are welcome!
+will the weather be cloudy next week,"okay, what city should i look in?"
+"will the weather be cloudy next week okay, what city should i look in? grand rapids",during the week it will be cloudy in grand rapids only today
+"will the weather be cloudy next week okay, what city should i look in? grand rapids during the week it will be cloudy in grand rapids only today thanks.",glad i could help out
+where is there a parking garage?,i have located a parking garage Webster_Garage_distance away at 880 ames ct. called webster garage.
+where is there a parking garage? i have located a parking garage Webster_Garage_distance away at 880 ames ct. called webster garage. what is the quickest route there?,"it is located Webster_Garage_distance away, with moderate traffic en route."
+"where is there a parking garage? i have located a parking garage Webster_Garage_distance away at 880 ames ct. called webster garage. what is the quickest route there? it is located Webster_Garage_distance away, with moderate traffic en route.  okay perfect, thanks!",no problem
+what time is my doctor's appointment and who is going with me?,"your doctor's appointment at 2 pm, your aunt will be going."
+"what time is my doctor's appointment and who is going with me? your doctor's appointment at 2 pm, your aunt will be going. okay perfect, thank you!",happy to help
+"assistant schedule an appointment at the dentist, 9am of the 12th of current month. bring martha with me",i am setting an appointment at the dentist on the 12th of current month at 9 am with martha.
+"assistant schedule an appointment at the dentist, 9am of the 12th of current month. bring martha with me i am setting an appointment at the dentist on the 12th of current month at 9 am with martha.  thank you!",you are welcome.
+set a reminder for my swimming plans,swimming plans
+set a reminder for my swimming plans swimming plans at 11 am on friday,swimming plans on friday at 11 am have been added to the calendar.
+set a reminder for my swimming plans swimming plans at 11 am on friday swimming plans on friday at 11 am have been added to the calendar.  perfect. nothing else for now.,ok
+what is the agenda of my meeting today,your agenda for your meeting today is meeting_agenda.
+where can i get tea?,there is 2 tea shops near you; teavana is Teavana_distance away and cafe venetia is 5 miles away. which one do you want?
+"where can i get tea? there is 2 tea shops near you; teavana is Teavana_distance away and cafe venetia is 5 miles away. which one do you want? which one is the quickest, is there any traffic?","teavana is the fastest journey, because there is Teavana_traffic_info on the way there. cafe venetia has moderate traffic. should we go to teavana?"
+"where can i get tea? there is 2 tea shops near you; teavana is Teavana_distance away and cafe venetia is 5 miles away. which one do you want? which one is the quickest, is there any traffic? teavana is the fastest journey, because there is Teavana_traffic_info on the way there. cafe venetia has moderate traffic. should we go to teavana? yes teavana please",i sent on your screen its position and the fastest route to get there
+"where can i get tea? there is 2 tea shops near you; teavana is Teavana_distance away and cafe venetia is 5 miles away. which one do you want? which one is the quickest, is there any traffic? teavana is the fastest journey, because there is Teavana_traffic_info on the way there. cafe venetia has moderate traffic. should we go to teavana? yes teavana please i sent on your screen its position and the fastest route to get there ok can you tell me the address please?",teavana is located at Teavana_address.
+"where can i get tea? there is 2 tea shops near you; teavana is Teavana_distance away and cafe venetia is 5 miles away. which one do you want? which one is the quickest, is there any traffic? teavana is the fastest journey, because there is Teavana_traffic_info on the way there. cafe venetia has moderate traffic. should we go to teavana? yes teavana please i sent on your screen its position and the fastest route to get there ok can you tell me the address please? teavana is located at Teavana_address.  thanks for all the help.","you're welcome, glad i could be of assistance."
+is it gonna be any blizzard on alhambra_tuesday in alhambra?,there is not gonna be any blizzard this week in alhambra; on alhambra_tuesday it will rain
+is it gonna be any blizzard on alhambra_tuesday in alhambra? there is not gonna be any blizzard this week in alhambra; on alhambra_tuesday it will rain thank you.,you are very welcome.
+is it gonna be foggy in exeter on next week?,there is no fog in the forecast for exeter next week.
+is it gonna be foggy in exeter on next week? there is no fog in the forecast for exeter next week. thanks.,you're welcome!
+give me directions to the local starbucks,i do not have info on the local starbucks but i do see another coffee place. would you like to hear info on it?
+"give me directions to the local starbucks i do not have info on the local starbucks but i do see another coffee place. would you like to hear info on it? yes, please! which one is its address? there is any quick route available?","there is coupa located at 394 van ness ave, there is moderate traffic but you're just Coupa_distance away"
+"give me directions to the local starbucks i do not have info on the local starbucks but i do see another coffee place. would you like to hear info on it? yes, please! which one is its address? there is any quick route available? there is coupa located at 394 van ness ave, there is moderate traffic but you're just Coupa_distance away perfect!",you are welcome!
+what's the highest temperature going to be in cleveland this week?,this week the highest temperature in cleveland will be 100f on cleveland_saturday
+what's the highest temperature going to be in cleveland this week? this week the highest temperature in cleveland will be 100f on cleveland_saturday thank you.,you're welcome!
+i need a route to the shopping center with no traffic.,stanford shopping center is the only nearby shopping center.
+i need a route to the shopping center with no traffic.  stanford shopping center is the only nearby shopping center. what does the traffic look like?,there is a Stanford_Shopping_Center_traffic_info stanford shopping center.
+"i need a route to the shopping center with no traffic.  stanford shopping center is the only nearby shopping center. what does the traffic look like? there is a Stanford_Shopping_Center_traffic_info stanford shopping center. ouch, patience, please pick the route with least traffic and let's go there, thank you!",the route to Stanford_Shopping_Center_address set to the quickest possible.
+"i need a route to the shopping center with no traffic.  stanford shopping center is the only nearby shopping center. what does the traffic look like? there is a Stanford_Shopping_Center_traffic_info stanford shopping center. ouch, patience, please pick the route with least traffic and let's go there, thank you! the route to Stanford_Shopping_Center_address set to the quickest possible.  thank you car!",you're welcome!
+find out the date and parties attending for my optometrist appointment.,"you have 3 optometrist appointments scheduled, one with marie on the 2nd, martha on optometrist_appointment_date, and your brother on the 16th."
+"find out the date and parties attending for my optometrist appointment.  you have 3 optometrist appointments scheduled, one with marie on the 2nd, martha on optometrist_appointment_date, and your brother on the 16th. thanks for the info.",you're welcome
+find a coffee place,philz serves coffee and is Philz_distance away at 583 alester ave.
+"find a coffee place philz serves coffee and is Philz_distance away at 583 alester ave.  sounds great, let's go there.",there is Philz_traffic_info on the 6 mile route to philz; enjoy.
+"find a coffee place philz serves coffee and is Philz_distance away at 583 alester ave.  sounds great, let's go there.  there is Philz_traffic_info on the 6 mile route to philz; enjoy.  thank you.",you're welcome.
+can you give me the weather this week for new york city,"in new york, it will be raining monday and tuesday, snowing wednesday, windy on thursday, frost on friday, dew on saturday, and overcast on new_york_sunday."
+"can you give me the weather this week for new york city in new york, it will be raining monday and tuesday, snowing wednesday, windy on thursday, frost on friday, dew on saturday, and overcast on new_york_sunday. then no clear skies for me, i'm sad.. thank you car!",you're welcome.. patience!
+i need the quickest route to a pizza restaurant near me.,there isn't any traffic to pizza my heart at Pizza_My_Heart_address. it will be a 6 mile drive.
+i need the quickest route to a pizza restaurant near me. there isn't any traffic to pizza my heart at Pizza_My_Heart_address. it will be a 6 mile drive. pick the quickest route and let's go there please,quickest route with Pizza_My_Heart_traffic_info set for pizza my heart. have a great day.
+where are there chinese restaurants around?,there is a chef chu's and a tai pan.
+where are there chinese restaurants around? there is a chef chu's and a tai pan. whichever is the fastest to get to.,that would be chef chu's
+where are there chinese restaurants around? there is a chef chu's and a tai pan. whichever is the fastest to get to. that would be chef chu's what is the address?,chef chu's is at Chef_Chu's_address.
+where are there chinese restaurants around? there is a chef chu's and a tai pan. whichever is the fastest to get to. that would be chef chu's what is the address? chef chu's is at Chef_Chu's_address. thank you,you're welcome.
+what is the rest stop with the quickest route nearby?,hotel keen is a rest stop located Hotel_Keen_distance away. there is a car collision nearby but should delay you to long.
+what is the rest stop with the quickest route nearby? hotel keen is a rest stop located Hotel_Keen_distance away. there is a car collision nearby but should delay you to long. what is the address?,"the address for hotel keen is 578 arbol dr, Hotel_Keen_distance away with a car collision nearby"
+"what is the rest stop with the quickest route nearby? hotel keen is a rest stop located Hotel_Keen_distance away. there is a car collision nearby but should delay you to long. what is the address? the address for hotel keen is 578 arbol dr, Hotel_Keen_distance away with a car collision nearby is there a quick route to reach?",i sent the quickest route on your screen
+"what is the rest stop with the quickest route nearby? hotel keen is a rest stop located Hotel_Keen_distance away. there is a car collision nearby but should delay you to long. what is the address? the address for hotel keen is 578 arbol dr, Hotel_Keen_distance away with a car collision nearby is there a quick route to reach? i sent the quickest route on your screen thank you car!",you're welcome; drive safely.
+"what is the rest stop with the quickest route nearby? hotel keen is a rest stop located Hotel_Keen_distance away. there is a car collision nearby but should delay you to long. what is the address? the address for hotel keen is 578 arbol dr, Hotel_Keen_distance away with a car collision nearby is there a quick route to reach? i sent the quickest route on your screen thank you car! you're welcome; drive safely. have a good day.",if you drive carefully it will be for sure!
+check the weather forecast,what city do you want the weather for?
+check the weather forecast what city do you want the weather for? i want to know if it will be stormy in manhattan over the next 7 days,in manhattan it will be stormy on wednesday and manhattan_thursday
+check the weather forecast what city do you want the weather for? i want to know if it will be stormy in manhattan over the next 7 days in manhattan it will be stormy on wednesday and manhattan_thursday thank you car!,anytime.
+please give me the address and directions via a route with Round_Table_traffic_info to the nearest pizza restaurant.,the nearest pizza restaurant with no traffic is Round_Table_distance away at 113 anton ct. do you want to go to the round table?
+"please give me the address and directions via a route with Round_Table_traffic_info to the nearest pizza restaurant. the nearest pizza restaurant with no traffic is Round_Table_distance away at 113 anton ct. do you want to go to the round table? yes, let's go, thank you!",you're welcome
+this week will it be warm in los angeles?,in los angeles it is gonna be warm on los_angeles_tuesday
+this week will it be warm in los angeles? in los angeles it is gonna be warm on los_angeles_tuesday thank you car!,anytime!
+find location and address to home that is nearest me.,your home is at home_address.
+"find location and address to home that is nearest me. your home is at home_address. thanks, set the gps for there.",no problem
+what time is my dinner reservation,your dinner reservation is at dinner_time.
+please give me the address and directions via a route that avoids all heavy traffic to a hospital around me.,palo alto medical foundation at 611 ames ave is Palo_Alto_Medical_Foundation_distance away but there is no traffic on the way. setting navigation now.
+please give me the address and directions via a route that avoids all heavy traffic to a hospital around me.  palo alto medical foundation at 611 ames ave is Palo_Alto_Medical_Foundation_distance away but there is no traffic on the way. setting navigation now.  thank you very much car!,you are welcome
+set a reminder for my dentist appointment with dad on the first at 2pm.,"ok, dentist appointment with your dad on the 1st at 2pm is set"
+set an appointment to swim next week,what date and time is your swim appointment?
+set an appointment to swim next week what date and time is your swim appointment? thursday at 10 am please.,i have added swim appointment to your calendar at 10 am on thursday.
+set an appointment to swim next week what date and time is your swim appointment? thursday at 10 am please.  i have added swim appointment to your calendar at 10 am on thursday.  thanks.,you are welcome.
+"i need to find out the parties attending and the date for my lab appointment, thanks.",your lab appointment is on lab_appointment_date and your aunt will be attending.
+"i need to find out the parties attending and the date for my lab appointment, thanks.  your lab appointment is on lab_appointment_date and your aunt will be attending. great, thank you so much!",the lab appointment is schedule for 2 pm on lab_appointment_date and your aunt will be attending.
+"i need to find out the parties attending and the date for my lab appointment, thanks.  your lab appointment is on lab_appointment_date and your aunt will be attending. great, thank you so much! the lab appointment is schedule for 2 pm on lab_appointment_date and your aunt will be attending.  thank you.",you're welcome
+find me the nearest gas station.,the nearest gas station is located Valero_distance away. need more info?
+"find me the nearest gas station.  the nearest gas station is located Valero_distance away. need more info? please pick the quickest route to get there, thank you!",setting gps for quickest route to valero gas station now.
+"find me the nearest gas station.  the nearest gas station is located Valero_distance away. need more info? please pick the quickest route to get there, thank you! setting gps for quickest route to valero gas station now. display address on screen please.",valero is located at Valero_address.
+"find me the nearest gas station.  the nearest gas station is located Valero_distance away. need more info? please pick the quickest route to get there, thank you! setting gps for quickest route to valero gas station now. display address on screen please. valero is located at Valero_address. thanks for the information.","you're welcome, glad i could help."
+what is the weather forecast in cleveland for cleveland_thursday?,the weather in cleveland on cleveland_thursday will have dew and a high of 30f.
+what is the weather forecast in cleveland for cleveland_thursday? the weather in cleveland on cleveland_thursday will have dew and a high of 30f.  thanks,anytime!
+need the quickest route to home.,"your home is home_distance away but there is heavy traffic on our way, i sent the best available route on your screen"
+"need the quickest route to home. your home is home_distance away but there is heavy traffic on our way, i sent the best available route on your screen could you confirm the address for me please?","sure, it's home_address, you can see it on your screen"
+"need the quickest route to home. your home is home_distance away but there is heavy traffic on our way, i sent the best available route on your screen could you confirm the address for me please?  sure, it's home_address, you can see it on your screen thank you.",you're welcome; drive safely.
+is it going to be hot this weekend in boston?,"the temperatures in seattle will be high this week and the hottest days will be monday and boston_tuesday with 100f (but pay attention, it's gonna rain too)"
+"is it going to be hot this weekend in boston? the temperatures in seattle will be high this week and the hottest days will be monday and boston_tuesday with 100f (but pay attention, it's gonna rain too) i was asking about boston not seattle, do you have information for boston, too?",the highs for boston this weekend are in the 90s while the lows are supposed to be 70s.
+"is it going to be hot this weekend in boston? the temperatures in seattle will be high this week and the hottest days will be monday and boston_tuesday with 100f (but pay attention, it's gonna rain too) i was asking about boston not seattle, do you have information for boston, too? the highs for boston this weekend are in the 90s while the lows are supposed to be 70s.  thank you so much for the information.","you're welcome, glad i could help."
+schedule a swimming activity with my brother for the 7th at 11am.,"okay, scheduling a swimming activity with your brother for the 7th at 11am."
+"schedule a swimming activity with my brother for the 7th at 11am. okay, scheduling a swimming activity with your brother for the 7th at 11am. great, thank you.",glad to help
+where is the nearby shopping center?,stanford shopping center is Stanford_Shopping_Center_distance away.
+"where is the nearby shopping center? stanford shopping center is Stanford_Shopping_Center_distance away. please pick the quickest route to go there and send me the info on screen, thanks!","ok, you will headed toward stanford shopping center at 773 alger dr, located Stanford_Shopping_Center_distance away."
+"where is the nearby shopping center? stanford shopping center is Stanford_Shopping_Center_distance away. please pick the quickest route to go there and send me the info on screen, thanks! ok, you will headed toward stanford shopping center at 773 alger dr, located Stanford_Shopping_Center_distance away. thanks!",you are welcome.
+what is the date and location for my conference and who is attending?,"for which one? i have two, one at 6pm and one at conference_time."
+"what is the date and location for my conference and who is attending? for which one? i have two, one at 6pm and one at conference_time.  the one at 6 pm please.",the event is on sunday at 6pm in conference room 102 and conference_party will be attending.
+"what is the date and location for my conference and who is attending? for which one? i have two, one at 6pm and one at conference_time.  the one at 6 pm please. the event is on sunday at 6pm in conference room 102 and conference_party will be attending. thanks!","no problem, goodbye."
+what time do i take my medicine and who is attending?,currently you are taking medicine on two occasions. one is on the 13th at 4pm with your mother. the other is on taking_medicine_date at 11 am with marie.
+who will be at the meeting meeting_date,hr will be at the meeting_date meeting.
+will it be windy in los angeles on los_angeles_sunday?,the weather forecast predicts that it will be stormy in los angeles on los_angeles_sunday
+will it be windy in los angeles on los_angeles_sunday? the weather forecast predicts that it will be stormy in los angeles on los_angeles_sunday thanks.,no problem.
+what time is my lab appointment for,your next lab appointment is next lab_appointment_date at 2 pm.
+schedule a dentist appointment on the 8th at 1 pm. ana will be joining you.,"okay, scheduling a dentist appointment with ana on the 8th at 1pm."
+"schedule a dentist appointment on the 8th at 1 pm. ana will be joining you. okay, scheduling a dentist appointment with ana on the 8th at 1pm. thanks!",glad i can assist you.
+i need a rest stop within a 2 mile radius.,there is a travelers lodge one mile away.
+i need a rest stop within a 2 mile radius.  there is a travelers lodge one mile away. what is the address?,travelers lodge Travelers_Lodge_address.
+i need a rest stop within a 2 mile radius.  there is a travelers lodge one mile away. what is the address? travelers lodge Travelers_Lodge_address. set gps for shortest route.,gps set for shortest route.
+i need a rest stop within a 2 mile radius.  there is a travelers lodge one mile away. what is the address? travelers lodge Travelers_Lodge_address. set gps for shortest route. gps set for shortest route. thanks!,have a good day.
+when am i playing tennis,you are playing tennis on 11 am friday.
+what date is my dentist appointment and who is attending?,"you have two dentist appointments, one with your aunt and one with your sister, both on dentist_appointment_date."
+"what date is my dentist appointment and who is attending? you have two dentist appointments, one with your aunt and one with your sister, both on dentist_appointment_date. thank you, that was helpful.",glad i can assist you.
+what is the date of my yoga activity and who will be attending it?,"you have four yoga activities scheduled; one on yoga_activity_date with alex, two on friday with sister and one with marie, and one on the 17th with martha."
+"what is the date of my yoga activity and who will be attending it? you have four yoga activities scheduled; one on yoga_activity_date with alex, two on friday with sister and one with marie, and one on the 17th with martha.  thank you.",you are welcome!
+schedule taking medicine with martha at 5pm next wednesday.,okay scheduling taking medicine with martha at 5pm next wednesday.
+schedule taking medicine with martha at 5pm next wednesday. okay scheduling taking medicine with martha at 5pm next wednesday. thank you!,taking medicine scheduled for next wednesday at 5 pm
+is the weather cloudy right now,what city do you want the weather for?
+is the weather cloudy right now what city do you want the weather for? fresno,there are no clouds in fresno right now.
+is the weather cloudy right now what city do you want the weather for? fresno there are no clouds in fresno right now. thanks.,anytime.
+give me the location for the nearest starbucks,there is no starbucks listed locally but i have another coffee shop listed would you like the address to it?
+give me the location for the nearest starbucks there is no starbucks listed locally but i have another coffee shop listed would you like the address to it? yes please.,"then let's go at cafe venetia, Cafe_Venetia_address"
+"give me the location for the nearest starbucks there is no starbucks listed locally but i have another coffee shop listed would you like the address to it? yes please. then let's go at cafe venetia, Cafe_Venetia_address okay thank you.",the destination is Cafe_Venetia_distance away in no traffic.
+"give me the location for the nearest starbucks there is no starbucks listed locally but i have another coffee shop listed would you like the address to it? yes please. then let's go at cafe venetia, Cafe_Venetia_address okay thank you. the destination is Cafe_Venetia_distance away in no traffic.  please set the gps to avoid all heavy traffic and let's go there, thank you!",you are welcome!
+find directions to the nearest starbucks,there is no starbucks close but there is two others; one is coupa that is 6 miles away and the other is cafe venetia which is Cafe_Venetia_distance away. which one do you want?
+"find directions to the nearest starbucks there is no starbucks close but there is two others; one is coupa that is 6 miles away and the other is cafe venetia which is Cafe_Venetia_distance away. which one do you want? let's go at cafe venetia please, send the address on my screen and pich the quickest route",cafe venetia is located at 269 alger drive with Cafe_Venetia_traffic_info. is that going to be okay?
+"find directions to the nearest starbucks there is no starbucks close but there is two others; one is coupa that is 6 miles away and the other is cafe venetia which is Cafe_Venetia_distance away. which one do you want? let's go at cafe venetia please, send the address on my screen and pich the quickest route cafe venetia is located at 269 alger drive with Cafe_Venetia_traffic_info. is that going to be okay? yes. set gps for the quickest route now.","i sent the info on your screen, drive carefully!"
+"find directions to the nearest starbucks there is no starbucks close but there is two others; one is coupa that is 6 miles away and the other is cafe venetia which is Cafe_Venetia_distance away. which one do you want? let's go at cafe venetia please, send the address on my screen and pich the quickest route cafe venetia is located at 269 alger drive with Cafe_Venetia_traffic_info. is that going to be okay? yes. set gps for the quickest route now. i sent the info on your screen, drive carefully! thanks",you're welcome!
+is it supposed to snow today,where would you like to know if it will snow?
+is it supposed to snow today where would you like to know if it will snow? i want to know about corona please.,no it's not forecast to snow in corona today; the forecast is humid with a low of 70f and a high of 90f.
+is it supposed to snow today where would you like to know if it will snow? i want to know about corona please.  no it's not forecast to snow in corona today; the forecast is humid with a low of 70f and a high of 90f. thank you so much.,you're welcome. have a great day.
+give me directions to a place to sleep,the travelers lodge is closest to you at Travelers_Lodge_distance away in moderate traffic. would you like directions there?
+"give me directions to a place to sleep the travelers lodge is closest to you at Travelers_Lodge_distance away in moderate traffic. would you like directions there? yes, please, pick a quick route!",i'm setting the gps for Travelers_Lodge_address.
+"give me directions to a place to sleep the travelers lodge is closest to you at Travelers_Lodge_distance away in moderate traffic. would you like directions there? yes, please, pick a quick route! i'm setting the gps for Travelers_Lodge_address. thanks.",you are welcome
+"i'm desiring to eat at some chinese restaurant, is there anything in this local area?",we're P.F._Changs_distance away from p.f. changs: do you want to go there?
+"i'm desiring to eat at some chinese restaurant, is there anything in this local area? we're P.F._Changs_distance away from p.f. changs: do you want to go there? yes, please, and pick a route to avoid all P.F._Changs_traffic_info",taking you to pf changs.
+"i'm desiring to eat at some chinese restaurant, is there anything in this local area? we're P.F._Changs_distance away from p.f. changs: do you want to go there? yes, please, and pick a route to avoid all P.F._Changs_traffic_info taking you to pf changs. what is the address?",the addres of p.f.changs is P.F._Changs_address
+"i'm desiring to eat at some chinese restaurant, is there anything in this local area? we're P.F._Changs_distance away from p.f. changs: do you want to go there? yes, please, and pick a route to avoid all P.F._Changs_traffic_info taking you to pf changs. what is the address? the addres of p.f.changs is P.F._Changs_address sounds good, set the navigation there please.","navigation set, we should arrive shortly."
+which days are rain forecasted,what city would you like weather information about?
+which days are rain forecasted what city would you like weather information about? tell me if it is raining in oakland right now.,the weather forecast for oakland does not show rain right now.
+which days are rain forecasted what city would you like weather information about? tell me if it is raining in oakland right now. the weather forecast for oakland does not show rain right now. thanks.,you are welcome.
+schedule a conference at 6 pm on the tenth with sales team.,i will schedule a conference at 6 pm on the tenth with sales team.
+schedule a conference at 6 pm on the tenth with sales team. i will schedule a conference at 6 pm on the tenth with sales team.  thank you.,you are welcome.
+please set a reminder to take medicine at 7pm tuesday with ana.,"okay, setting a reminder to take your medicine with ana at 7 pm on tuesday."
+"please set a reminder to take medicine at 7pm tuesday with ana. okay, setting a reminder to take your medicine with ana at 7 pm on tuesday. thanks.",you are welcome.
+find me a gas station.,chevron is Chevron_distance away.
+find me a gas station. chevron is Chevron_distance away. are there any other locations that will take less time to reach?,"i'm sorry, chevron is the only gas station i am able to locate"
+"find me a gas station. chevron is Chevron_distance away. are there any other locations that will take less time to reach? i'm sorry, chevron is the only gas station i am able to locate ok send me the address please.","its address is Chevron_address, i sent it on your screen"
+"find me a gas station. chevron is Chevron_distance away. are there any other locations that will take less time to reach? i'm sorry, chevron is the only gas station i am able to locate ok send me the address please. its address is Chevron_address, i sent it on your screen thank you.",you're welcome; drive safely.
+"find me a gas station. chevron is Chevron_distance away. are there any other locations that will take less time to reach? i'm sorry, chevron is the only gas station i am able to locate ok send me the address please. its address is Chevron_address, i sent it on your screen thank you.  you're welcome; drive safely.  great!",no problem
+schedule a reminder to take medicine with martha for saturday at 2pm.,your reminder has been set for saturday at 2pm to take medicine with martha.
+are there any chinese restaurants nearby?,we're Chef_Chu's_distance away from chef chu's and 6 miles away from mandarin roots
+are there any chinese restaurants nearby? we're Chef_Chu's_distance away from chef chu's and 6 miles away from mandarin roots which one has the fastest route?,chef chu's is closer.
+are there any chinese restaurants nearby? we're Chef_Chu's_distance away from chef chu's and 6 miles away from mandarin roots which one has the fastest route? chef chu's is closer. what is the address?,chef chu's is located at Chef_Chu's_address.
+are there any chinese restaurants nearby? we're Chef_Chu's_distance away from chef chu's and 6 miles away from mandarin roots which one has the fastest route? chef chu's is closer. what is the address? chef chu's is located at Chef_Chu's_address.  how long will it take to get there?,chef chu's is Chef_Chu's_distance away through moderate traffic
+are there any chinese restaurants nearby? we're Chef_Chu's_distance away from chef chu's and 6 miles away from mandarin roots which one has the fastest route? chef chu's is closer. what is the address? chef chu's is located at Chef_Chu's_address.  how long will it take to get there? chef chu's is Chef_Chu's_distance away through moderate traffic thank you,you're welcome!
+where is the nearest hospital that we can get to quick?,"stanford express care is Stanford_Express_Care_distance away, though there is a car collision nearby. would you like directions there?"
+"where is the nearest hospital that we can get to quick? stanford express care is Stanford_Express_Care_distance away, though there is a car collision nearby. would you like directions there?  yes sounds great.","okay, heading to Stanford_Express_Care_address"
+give me the location for the nearest starbucks,there are no starbucks around here but we're Cafe_Venetia_distance away from cafe venetia: is it okay to go there?
+"give me the location for the nearest starbucks there are no starbucks around here but we're Cafe_Venetia_distance away from cafe venetia: is it okay to go there? sure, just pick the fastest route for me, thanks!","i sent the address with the fastest route on screen, drive carefully!"
+remind me to go swimming at 4:50,am or pm ?
+remind me to go swimming at 4:50 am or pm ? at 4:50 pm the 12th of this month.,swimming reminder has been set for the 12th at 4:50pm.
+remind me to go swimming at 4:50 am or pm ? at 4:50 pm the 12th of this month.  swimming reminder has been set for the 12th at 4:50pm. thanks,you're welcome.
+"please tell me the location, time and parties that are attending my meeting",your next meeting is with your meeting_party at 10 am in conference room 102.
+"please tell me the location, time and parties that are attending my meeting your next meeting is with your meeting_party at 10 am in conference room 102. great, thank you so much!",you're welcome!  did you also want to know the agenda for the meeting?
+"please tell me the location, time and parties that are attending my meeting your next meeting is with your meeting_party at 10 am in conference room 102. great, thank you so much! you're welcome!  did you also want to know the agenda for the meeting? that is all, thanks!",you are welcome
+what's the current weather in san francisco?,there is currently snow in san francisco
+what's the current weather in san francisco? there is currently snow in san francisco okay thanks,happy to help
+what time is the doctors appointment and who is attending?,"which one? i have two, one  with your father on the 3rd, and one with tom on the 9th."
+"what time is the doctors appointment and who is attending? which one? i have two, one  with your father on the 3rd, and one with tom on the 9th.  the 9th. thank you.",the appointment on the 9th is at 3 pm.
+set a reminder for the conference.,what day and time is the conference
+set a reminder for the conference.  what day and time is the conference it is on august 14th at 4pm,i have that conference set up for you to be reminded of. is there anything else you need?
+set a reminder for the conference.  what day and time is the conference it is on august 14th at 4pm i have that conference set up for you to be reminded of. is there anything else you need? make sure you add the executive team to that reminder.,your reminder for the conference with the executive team on august the 14th at 4pm is all set.
+set a reminder for the conference.  what day and time is the conference it is on august 14th at 4pm i have that conference set up for you to be reminded of. is there anything else you need? make sure you add the executive team to that reminder.  your reminder for the conference with the executive team on august the 14th at 4pm is all set.  thanks.,you are welcome
+"car, find out the time and parties attending for my tennis activity.",your tennis activity is set for 11 am with tennis_activity_party in attendance.
+"car, find out the time and parties attending for my tennis activity.  your tennis activity is set for 11 am with tennis_activity_party in attendance. thanks",happy to help
+what's the temperature going to be this week,what city would you like weather information about?
+what's the temperature going to be this week what city would you like weather information about? san jose please.,"in san jose, it is expected to be between 40-60f monday and tuesday, 70-80f wednesday, 90-100f thursday, 70-90f friday, 30-40f saturday, and 40-60f on san_jose_sunday."
+"what's the temperature going to be this week what city would you like weather information about? san jose please. in san jose, it is expected to be between 40-60f monday and tuesday, 70-80f wednesday, 90-100f thursday, 70-90f friday, 30-40f saturday, and 40-60f on san_jose_sunday. thanks!",you are welcome.
+how is gonna be the weather forecast in san mateo for the next weekend?,"in san mateo it will be stormy on saturday, and hail on san_mateo_sunday"
+"how is gonna be the weather forecast in san mateo for the next weekend? in san mateo it will be stormy on saturday, and hail on san_mateo_sunday okay, thank you",you're welcome
+what's the temperature going to be like this week,what city are you interested in
+what's the temperature going to be like this week what city are you interested in los angeles,the temperature in los angeles this week reaches a low of 40f and the highest will be 100f
+what's the temperature going to be like this week what city are you interested in los angeles the temperature in los angeles this week reaches a low of 40f and the highest will be 100f thanks!,you're welcome. hope you have a great day.
+find out when my next conferences,conference_date at 3pm
+please check the weather for this week,where are you interested in?
+please check the weather for this week where are you interested in? will it be stormy in camarillo?,in camarillo it will be stormy on camarillo_tuesday
+please check the weather for this week where are you interested in? will it be stormy in camarillo? in camarillo it will be stormy on camarillo_tuesday thank you!,happy to help
+schedule a conference with the boss for this month on the 5th at 1pm.,"okay, i am scheduling a conference with your boss for the 5th of this month at 1pm."
+"schedule a conference with the boss for this month on the 5th at 1pm. okay, i am scheduling a conference with your boss for the 5th of this month at 1pm. great, thanks.",no problem!
+schedule a tennis activity with martha for friday at 4pm.,"okay, scheduling a tennis activity with martha for friday at 4pm."
+"schedule a tennis activity with martha for friday at 4pm. okay, scheduling a tennis activity with martha for friday at 4pm. thanks.",you are welcome.
+will it be windy in atherton in the next two days?,it will not be windy in atherton in the next few days.
+will it be windy in atherton in the next two days? it will not be windy in atherton in the next few days. thanks.,you're welcome.
+where is a nearby rest stop?,the travelers lodge is located Travelers_Lodge_distance away at 333 arbol dr. would you like directions there?
+"where is a nearby rest stop? the travelers lodge is located Travelers_Lodge_distance away at 333 arbol dr. would you like directions there?  yes, please give me directions via the fastest route.","ok, i am setting gps for Travelers_Lodge_address."
+"where is a nearby rest stop? the travelers lodge is located Travelers_Lodge_distance away at 333 arbol dr. would you like directions there?  yes, please give me directions via the fastest route.  ok, i am setting gps for Travelers_Lodge_address. thank you.","you're welcome, have a great day."
+hi car i would like to schedule a reminder for my tennis activity at 5pm on the tenth with jon,"okay, scheduling a reminder for your tennis activity at 5pm on the 10th with jon"
+"hi car i would like to schedule a reminder for my tennis activity at 5pm on the tenth with jon okay, scheduling a reminder for your tennis activity at 5pm on the 10th with jon perfect, thank you!",you are welcome
+what is the address of my friend's house?,jacks house is at jacks_house_address.
+what is the address of my friend's house? jacks house is at jacks_house_address. get me the address to my friends house nearest my current location.,taking you to jack's house.
+what is the address of my friend's house? jacks house is at jacks_house_address. get me the address to my friends house nearest my current location. taking you to jack's house. set the gps for the quickest route possible.,"i sent all the info on your screen, drive carefully!"
+"what is the address of my friend's house? jacks house is at jacks_house_address. get me the address to my friends house nearest my current location. taking you to jack's house. set the gps for the quickest route possible. i sent all the info on your screen, drive carefully! thanks!",anytime!
+"i need to find out some info for my optometrist appointment, the date and time please.","okay, which one? i have one for the 12th at 9am, and one for optometrist_appointment_date at 5pm."
+"i need to find out some info for my optometrist appointment, the date and time please.  okay, which one? i have one for the 12th at 9am, and one for optometrist_appointment_date at 5pm. that will do, thanks.",you're welcome.
+get me directions to the mall,there are the ravenswood shopping center and the stanford shopping center both Ravenswood_Shopping_Center_distance away: do you want me to flip a coin between them or will you pick where to go?
+get me directions to the mall there are the ravenswood shopping center and the stanford shopping center both Ravenswood_Shopping_Center_distance away: do you want me to flip a coin between them or will you pick where to go? let's go at ravenswood shopping center and pick a route with no traffic please!,navigating you to ravenswood shopping center.
+get me directions to the mall there are the ravenswood shopping center and the stanford shopping center both Ravenswood_Shopping_Center_distance away: do you want me to flip a coin between them or will you pick where to go? let's go at ravenswood shopping center and pick a route with no traffic please! navigating you to ravenswood shopping center. what's the address?,the address to ravenswood shopping center is Ravenswood_Shopping_Center_address.
+get me directions to the mall there are the ravenswood shopping center and the stanford shopping center both Ravenswood_Shopping_Center_distance away: do you want me to flip a coin between them or will you pick where to go? let's go at ravenswood shopping center and pick a route with no traffic please! navigating you to ravenswood shopping center. what's the address? the address to ravenswood shopping center is Ravenswood_Shopping_Center_address. thanks so much for all your help.,good day!
+is there a grocery store within 3 miles of me?,trader joes is Trader_Joes_distance away at 408 university ave there is currently heavy traffic on the route
+"is there a grocery store within 3 miles of me? trader joes is Trader_Joes_distance away at 408 university ave there is currently heavy traffic on the route ok, please give me directions via the route with least traffic.","setting navigation now. there is Trader_Joes_traffic_info on the way, so drive carefully."
+"is there a grocery store within 3 miles of me? trader joes is Trader_Joes_distance away at 408 university ave there is currently heavy traffic on the route ok, please give me directions via the route with least traffic. setting navigation now. there is Trader_Joes_traffic_info on the way, so drive carefully.  thank you.",you're welcome; drive safely.
+find out if it's supposed to rain,what city are you wanting to know if it's going to rain?
+find out if it's supposed to rain what city are you wanting to know if it's going to rain? redwood city.,it will rain on redwood_city_wednesday in redwood city.
+find out if it's supposed to rain what city are you wanting to know if it's going to rain? redwood city. it will rain on redwood_city_wednesday in redwood city. thank you.,"no problem, so long."
+show me the nearby hospital,stanford express care is nearby.
+show me the nearby hospital stanford express care is nearby. does stanford express care have heavy traffic nearby?,does stanford express care have heavy traffic nearby?
+show me the nearby hospital stanford express care is nearby. does stanford express care have heavy traffic nearby? does stanford express care have heavy traffic nearby? does stanford express care have heavy traffic nearby?,the route to stanford express care does have heavy traffic.
+show me the nearby hospital stanford express care is nearby. does stanford express care have heavy traffic nearby? does stanford express care have heavy traffic nearby? does stanford express care have heavy traffic nearby? the route to stanford express care does have heavy traffic. any other local hospital's with no heavy traffic?,yes stanford childrens health is 1 mile away with Stanford_Childrens_Health_traffic_info. do you want the address?
+"show me the nearby hospital stanford express care is nearby. does stanford express care have heavy traffic nearby? does stanford express care have heavy traffic nearby? does stanford express care have heavy traffic nearby? the route to stanford express care does have heavy traffic. any other local hospital's with no heavy traffic? yes stanford childrens health is 1 mile away with Stanford_Childrens_Health_traffic_info. do you want the address? yes, please give me the address.",
+"show me the nearby hospital stanford express care is nearby. does stanford express care have heavy traffic nearby? does stanford express care have heavy traffic nearby? does stanford express care have heavy traffic nearby? the route to stanford express care does have heavy traffic. any other local hospital's with no heavy traffic? yes stanford childrens health is 1 mile away with Stanford_Childrens_Health_traffic_info. do you want the address? yes, please give me the address.  quickly reboot your system car and then send me the address, thank you!","i'm sorry, i did.. and i sent the address on your screen, drive carefully!"
+i need a coffee shop within 4 miles.,cafe venetia is Cafe_Venetia_distance away at 269 alger dr
+i need a coffee shop within 4 miles.  cafe venetia is Cafe_Venetia_distance away at 269 alger dr is there a quickest route to reach it?,"setting navigation now for the quickest route. there is a Cafe_Venetia_traffic_info, so drive carefully."
+"i need a coffee shop within 4 miles.  cafe venetia is Cafe_Venetia_distance away at 269 alger dr is there a quickest route to reach it? setting navigation now for the quickest route. there is a Cafe_Venetia_traffic_info, so drive carefully.  thanks!",anytime.
+find me a hotel that is near my location.,the westin is The_Westin_distance away.
+find me a hotel that is near my location. the westin is The_Westin_distance away. please pick a quick route to go there,navigating to the westin.
+find me a hotel that is near my location. the westin is The_Westin_distance away. please pick a quick route to go there navigating to the westin. thanks!  what is the address?,the address is The_Westin_address
+find me a hotel that is near my location. the westin is The_Westin_distance away. please pick a quick route to go there navigating to the westin. thanks!  what is the address? the address is The_Westin_address ok set the gps please. thanks for the help.,"you're welcome, happy to be of assistance."
+where can i buy groceries?,there is a safeway Safeway_distance away.
+where can i buy groceries? there is a safeway Safeway_distance away. what is the address?,safeway is located at 452 arcadia pl. with a Safeway_traffic_info.
+"where can i buy groceries? there is a safeway Safeway_distance away. what is the address? safeway is located at 452 arcadia pl. with a Safeway_traffic_info.  ouch, this sounds awful.. but patience, please set the gps to go there","i sent the fastest route on your gps, drive carefully!"
+"where can i buy groceries? there is a safeway Safeway_distance away. what is the address? safeway is located at 452 arcadia pl. with a Safeway_traffic_info.  ouch, this sounds awful.. but patience, please set the gps to go there i sent the fastest route on your gps, drive carefully! thank you car!",you're welcome!
+what is the date and time of my next meeting,your next meeting is meeting_date at 3 pm.
+what's the temperature going to be this week,what city are you wanting to know the temperature for?
+what's the temperature going to be this week what city are you wanting to know the temperature for? fresno,"the lowest temperature in fresno this week is predicted to be 60f, the highest, 100f"
+"what's the temperature going to be this week what city are you wanting to know the temperature for? fresno the lowest temperature in fresno this week is predicted to be 60f, the highest, 100f thanks.",no problem.
+what is the weather going to be like today and tomorrow,which city are you wanting to know the weather for?
+"what is the weather going to be like today and tomorrow which city are you wanting to know the weather for? seatlle, will it be windy?",it will be windy tomorrow in seattle.
+"what is the weather going to be like today and tomorrow which city are you wanting to know the weather for? seatlle, will it be windy? it will be windy tomorrow in seattle. thank you.",you are welcome!
+get me directions to the nearest starbucks,i am unable to locate starbucks. there is a coffee or tea place called coupa mile away.
+get me directions to the nearest starbucks i am unable to locate starbucks. there is a coffee or tea place called coupa mile away. then let's go there car! please send me its address on screen and pick the fastest route for me,coupa is 1 mile away with Coupa_traffic_info. it shouldn't take us long. it's located at 394 van ness avenue.
+get me directions to the nearest starbucks i am unable to locate starbucks. there is a coffee or tea place called coupa mile away. then let's go there car! please send me its address on screen and pick the fastest route for me coupa is 1 mile away with Coupa_traffic_info. it shouldn't take us long. it's located at 394 van ness avenue.  thanks so much for the information.,you're welcome!
+is it gonna be dry in redwood city in next few days?,what day would you like the forcast for?
+is it gonna be dry in redwood city in next few days? what day would you like the forcast for? the next few days please,it will not be dry in redwood city next week.
+is it gonna be dry in redwood city in next few days? what day would you like the forcast for? the next few days please it will not be dry in redwood city next week. thanks.,you are welcome.
+which one is gonna be the highest temperature in fresno this week?,fresno_monday in fresno will have the highest temperature of 90f
+which one is gonna be the highest temperature in fresno this week? fresno_monday in fresno will have the highest temperature of 90f thank you.,you are welcome.
+schedule a swimming activity with tom on the 6th of this month at 2pm.,"okay, i am scheduling a swimming event with tom on the 6th at 2pm."
+"schedule a swimming activity with tom on the 6th of this month at 2pm. okay, i am scheduling a swimming event with tom on the 6th at 2pm. thank you.",not a problem.
+i have an eye doctors appointment on the 12th at 5 pm,i will note down your eye doctor appointment at 5pm the 12th
+take me to the mall to buy some clothes,midtown shopping center is the closest shopping center to you. would you like the address?
+take me to the mall to buy some clothes midtown shopping center is the closest shopping center to you. would you like the address? yes.,"we're going to 338 alester ave, there is heavy traffic but it's just Midtown_Shopping_Center_distance away"
+"take me to the mall to buy some clothes midtown shopping center is the closest shopping center to you. would you like the address? yes. we're going to 338 alester ave, there is heavy traffic but it's just Midtown_Shopping_Center_distance away i wish to find a route with no traffic but it's okay, please send the info on the gps, thanks!",sending the address for the midtown shopping center at Midtown_Shopping_Center_address to your gps.
+"take me to the mall to buy some clothes midtown shopping center is the closest shopping center to you. would you like the address? yes. we're going to 338 alester ave, there is heavy traffic but it's just Midtown_Shopping_Center_distance away i wish to find a route with no traffic but it's okay, please send the info on the gps, thanks! sending the address for the midtown shopping center at Midtown_Shopping_Center_address to your gps. thank you car!",you're welcome!
+i need the address to my friend's house please.,jills house is located at jills_house_address.
+i need the address to my friend's house please.  jills house is located at jills_house_address.  could you please send on my screen the fastest route to get there?,"certainly. setting navigation details now. there's a jills_house_traffic_info, so take care on the roads."
+"i need the address to my friend's house please.  jills house is located at jills_house_address.  could you please send on my screen the fastest route to get there? certainly. setting navigation details now. there's a jills_house_traffic_info, so take care on the roads.  will do, thank you.",you're welcome!
+find me a tea house,there is cafe venetia that's Cafe_Venetia_distance away at 269 alger dr
+"find me a tea house there is cafe venetia that's Cafe_Venetia_distance away at 269 alger dr is there an alternate route, and is this the quickest way there?","there is Cafe_Venetia_traffic_info on our route, i've set the navigation there"
+"find me a tea house there is cafe venetia that's Cafe_Venetia_distance away at 269 alger dr is there an alternate route, and is this the quickest way there? there is Cafe_Venetia_traffic_info on our route, i've set the navigation there thank you.",you're welcome!
+when is the football game,the football game is wednesday at 10 am.
+when is the football game the football game is wednesday at 10 am.  thank you.,my pleasure
+what's the temperature going to be for the week,in what city are you asking?
+what's the temperature going to be for the week in what city are you asking? durham,"the temperature in durham will be: lowest temperature, low of 70f, high of 90f tuesday. highest temperature, low of 40f, high of 60f durham_thursday."
+"what's the temperature going to be for the week in what city are you asking? durham the temperature in durham will be: lowest temperature, low of 70f, high of 90f tuesday. highest temperature, low of 40f, high of 60f durham_thursday. thank you car.",you're very welcome!
+where do i live?,home is listed as 56 caldwell street.
+"where do i live? home is listed as 56 caldwell street.  it should be nearby, please pick a quick route to get there",setting quickest route home now.
+"where do i live? home is listed as 56 caldwell street.  it should be nearby, please pick a quick route to get there setting quickest route home now. thanks!",anytime!
+car please give me the address of a good pizza restaurant in the shortest possible distance,pizza chicago	is Pizza_Chicago_distance away.
+"car please give me the address of a good pizza restaurant in the shortest possible distance pizza chicago	is Pizza_Chicago_distance away. nice, what's the address there?",the address is Pizza_Chicago_address. would you like directions there?
+"car please give me the address of a good pizza restaurant in the shortest possible distance pizza chicago	is Pizza_Chicago_distance away. nice, what's the address there? the address is Pizza_Chicago_address. would you like directions there? set gps for shortest route now.","okay, heading to pizza chicago"
+find the nearest shopping mall on the map,the nearest one is midtown shopping center but there is a road block nearby. there is also ravenswood shopping center 2 miles farther but with Ravenswood_Shopping_Center_traffic_info on its direction
+find the nearest shopping mall on the map the nearest one is midtown shopping center but there is a road block nearby. there is also ravenswood shopping center 2 miles farther but with Ravenswood_Shopping_Center_traffic_info on its direction let's go to ravenswood then.,setting directions to Ravenswood_Shopping_Center_address.
+"find the nearest shopping mall on the map the nearest one is midtown shopping center but there is a road block nearby. there is also ravenswood shopping center 2 miles farther but with Ravenswood_Shopping_Center_traffic_info on its direction let's go to ravenswood then.  setting directions to Ravenswood_Shopping_Center_address.  okay, thanks","you're welcome, always happy to help."
+where can i get groceries?,whole foods is Whole_Foods_distance away.
+"where can i get groceries? whole foods is Whole_Foods_distance away. okay, tell me the quickest route there.",the quickest route to whole foods at Whole_Foods_addressreet does not have any traffic.
+"where can i get groceries? whole foods is Whole_Foods_distance away. okay, tell me the quickest route there. the quickest route to whole foods at Whole_Foods_addressreet does not have any traffic. sounds great, set the navigation for there.",gps set and have a great day.
+i want tea.,we're Starbucks_distance away from starbucks: do you like their tea?
+"i want tea. we're Starbucks_distance away from starbucks: do you like their tea? yes, what is the address?",you will find starbucks at Starbucks_address
+"i want tea. we're Starbucks_distance away from starbucks: do you like their tea? yes, what is the address? you will find starbucks at Starbucks_address thanks!",you're welcome!
+take me to a place where i can get some hot tea,coupa is nearby and serves tea.
+take me to a place where i can get some hot tea coupa is nearby and serves tea. how's the traffic?,Palo_Alto_Cafe_traffic_info to coupa.
+take me to a place where i can get some hot tea coupa is nearby and serves tea. how's the traffic? Palo_Alto_Cafe_traffic_info to coupa. give me the address.,coupa's address is 394 van ness ave.
+take me to a place where i can get some hot tea coupa is nearby and serves tea. how's the traffic? Palo_Alto_Cafe_traffic_info to coupa. give me the address. coupa's address is 394 van ness ave. is there an alternate route with no traffic?,no but palo alto cafe is just 1 mile away and has Palo_Alto_Cafe_traffic_info so we should be able to get there quicker. how does that sound?
+"take me to a place where i can get some hot tea coupa is nearby and serves tea. how's the traffic? Palo_Alto_Cafe_traffic_info to coupa. give me the address. coupa's address is 394 van ness ave. is there an alternate route with no traffic? no but palo alto cafe is just 1 mile away and has Palo_Alto_Cafe_traffic_info so we should be able to get there quicker. how does that sound? it sounds great! thank you car, let's navigate there please!","ok, initiating navigation."
+directions to nearest barista,"the nearer cafe is cafe venetia, it's Cafe_Venetia_distance away and there is a car collision nearby"
+"directions to nearest barista the nearer cafe is cafe venetia, it's Cafe_Venetia_distance away and there is a car collision nearby is there another coffee shop that situated on a route with no traffic?",i'm afraid that cafe venetia is the best option in this moment. i sent on your screen the directions to reach there through another route
+"directions to nearest barista the nearer cafe is cafe venetia, it's Cafe_Venetia_distance away and there is a car collision nearby is there another coffee shop that situated on a route with no traffic? i'm afraid that cafe venetia is the best option in this moment. i sent on your screen the directions to reach there through another route ok thank you.",you're welcome; drive safely.
+schedule an appointment for yoga,okay scheduling an appointment for yoga.
+when is the next cloudy day,what city are you asking about?
+"when is the next cloudy day what city are you asking about? manhattan, please. will it be cloudy on manhattan_monday?","manhattan_monday will be foggy, with low's of 30f and high's of 40f. similar heh."
+"when is the next cloudy day what city are you asking about? manhattan, please. will it be cloudy on manhattan_monday? manhattan_monday will be foggy, with low's of 30f and high's of 40f. similar heh.  thank you.",no problem!
+what's the weather forecast for tomorrow,what city are you asking about?
+what's the weather forecast for tomorrow what city are you asking about? will it be hot in atherton tomorrow?,"tomorrow will not be hot in atherton, it will be atherton_tuesday"
+"what's the weather forecast for tomorrow what city are you asking about? will it be hot in atherton tomorrow? tomorrow will not be hot in atherton, it will be atherton_tuesday thank you!",no problem!
+are there clear skies in the forecast today,what location would you like the weather information for?
+are there clear skies in the forecast today what location would you like the weather information for? i would like to know about san jose.,"today in san jose there will be an overcast, co clear skies."
+"are there clear skies in the forecast today what location would you like the weather information for? i would like to know about san jose. today in san jose there will be an overcast, co clear skies. thanks.",no problem.
+closest coffee,"the closest coffee place is coupa but there is heavy traffic, would you like a different location?"
+"closest coffee the closest coffee place is coupa but there is heavy traffic, would you like a different location? is there any available?",starbucks at 792 bedoin street is Starbucks_distance away with no traffic
+"closest coffee the closest coffee place is coupa but there is heavy traffic, would you like a different location? is there any available? starbucks at 792 bedoin street is Starbucks_distance away with no traffic please direct me there via the shortest distance.",sending you direction now.
+"closest coffee the closest coffee place is coupa but there is heavy traffic, would you like a different location? is there any available? starbucks at 792 bedoin street is Starbucks_distance away with no traffic please direct me there via the shortest distance.  sending you direction now. thank you car!",you're welcome
+is it going to be windy in san francisco tomorrow?,"it will be warm in san francisco tomorrow, it should not be windy"
+"is it going to be windy in san francisco tomorrow? it will be warm in san francisco tomorrow, it should not be windy thank you car!",no problem
+please let me know the weather forecast for tomorrow,what city are you interested in the forecast for?
+please let me know the weather forecast for tomorrow what city are you interested in the forecast for? los angeles.,"it will snow in los angeles tomorrow, with a low of 70f and a high of 90f."
+"please let me know the weather forecast for tomorrow what city are you interested in the forecast for? los angeles. it will snow in los angeles tomorrow, with a low of 70f and a high of 90f. thank you.",no problem.
+please give me information about my conference.,you have a conference on conference_date at 9am with hr
+please give me information about my conference.  you have a conference on conference_date at 9am with hr thanks,happy to help
+what time is my meeting tomorrow and what is the agenda,your meeting is scheduled for 2 pm tomorrow. the agenda is to meeting_agenda.
+what time is my meeting tomorrow and what is the agenda your meeting is scheduled for 2 pm tomorrow. the agenda is to meeting_agenda.  thanks,you are welcome.
+what time is my meeting tomorrow and what is the agenda your meeting is scheduled for 2 pm tomorrow. the agenda is to meeting_agenda.  thanks you are welcome. thanks again.,you are welcome
+schedule a lab appointment at 6 pm on august 3. alex is coming along,reminder set for lab appointment at 6 pm on august 3 with alex.
+is there snow in the forecast for the week,what city can i give you this weather information for?
+is there snow in the forecast for the week what city can i give you this weather information for? i need it for san jose.,snow is predicted to fall in san jose on san_jose_thursday this week.
+is there snow in the forecast for the week what city can i give you this weather information for? i need it for san jose. snow is predicted to fall in san jose on san_jose_thursday this week. thanks.,you are very welcome
+can you tell me the next day that i have an appointment with the eye doctor,your next appointment with your optometrist is tuesday at 11am.
+when's the football activity and who's attending?,"you have four football activities scheduled, one on monday at 6pm with alex, one on the 13th at 9am with alex, one on football_activity_date at 1pm with jeff, and one on saturday at 5pm with ana."
+"when's the football activity and who's attending? you have four football activities scheduled, one on monday at 6pm with alex, one on the 13th at 9am with alex, one on football_activity_date at 1pm with jeff, and one on saturday at 5pm with ana. thanks.",you're welcome
+"set a reminder for a football activity at 10 am, on friday, with tom.","okay, scheduling a football activity with tom for friday at 10am."
+"set a reminder for a football activity at 10 am, on friday, with tom.  okay, scheduling a football activity with tom for friday at 10am. thanks for your help.",happy to help
+please give the directions to a nearby hospital.,the only nearby hospital is  stanford express care which is Stanford_Express_Care_distance away.
+please give the directions to a nearby hospital.  the only nearby hospital is  stanford express care which is Stanford_Express_Care_distance away.  and how is the traffic?,there is currently a Stanford_Express_Care_traffic_info on the 5 mile route to stanford express care.
+please give the directions to a nearby hospital.  the only nearby hospital is  stanford express care which is Stanford_Express_Care_distance away.  and how is the traffic? there is currently a Stanford_Express_Care_traffic_info on the 5 mile route to stanford express care. could you give me the address and directions via a quick route?,the only route to stanford is reporting a road block but i am finding you the quickest route to Stanford_Express_Care_address.
+please give the directions to a nearby hospital.  the only nearby hospital is  stanford express care which is Stanford_Express_Care_distance away.  and how is the traffic? there is currently a Stanford_Express_Care_traffic_info on the 5 mile route to stanford express care. could you give me the address and directions via a quick route? the only route to stanford is reporting a road block but i am finding you the quickest route to Stanford_Express_Care_address.  okay thank you,"you're welcome; drive safely, and take care."
+set reminder for doctor's appointment for the tenth,"okay setting reminder for doctor's appointment on the tenth, would you like me to include a time?"
+"set reminder for doctor's appointment for the tenth okay setting reminder for doctor's appointment on the tenth, would you like me to include a time? yes, please ...1 pm.","great, i've set your doctor's appointment for the 12th at 1pm."
+give me directions to the closest shopping mall,we are Town_and_Country_distance away from town and county shopping center. does it sound good to you?
+give me directions to the closest shopping mall we are Town_and_Country_distance away from town and county shopping center. does it sound good to you? is the route to town and county shopping center the fastest?,yes it is.
+give me directions to the closest shopping mall we are Town_and_Country_distance away from town and county shopping center. does it sound good to you? is the route to town and county shopping center the fastest? yes it is. give me the address.,town and country is located at Town_and_Country_addressnue.
+give me directions to the closest shopping mall we are Town_and_Country_distance away from town and county shopping center. does it sound good to you? is the route to town and county shopping center the fastest? yes it is. give me the address. town and country is located at Town_and_Country_addressnue.  thanks.,have a good day.
+car what is the temperature going to be today and tomorrow,what city do you need the 2 day temperature for?
+car what is the temperature going to be today and tomorrow what city do you need the 2 day temperature for? grand rapids.,"in grand rapids, it will be 50-70f today and 20-40f tomorrow."
+"car what is the temperature going to be today and tomorrow what city do you need the 2 day temperature for? grand rapids. in grand rapids, it will be 50-70f today and 20-40f tomorrow. thanks.",you're welcome.
+where can i get coffee?,coupa is Coupa_distance away.
+where can i get coffee? coupa is Coupa_distance away. is that the shortest route available?,"i will pick the shortest route available for you, don't worry, do you want to get the info on your screen?"
+"where can i get coffee? coupa is Coupa_distance away. is that the shortest route available? i will pick the shortest route available for you, don't worry, do you want to get the info on your screen? yes please. thanks.","i sent the route on your screen, you're welcome!"
+is it going to snow today,what city do you wanna know if it will snow today?
+is it going to snow today what city do you wanna know if it will snow today? please check for oakland.,today is gonna be warm in oakland
+is it going to snow today what city do you wanna know if it will snow today? please check for oakland. today is gonna be warm in oakland thank you car!,no problem!
+what day is the swimming party and who will be attending?,"your swimming activity is on swimming_activity_date, with your father."
+"what day is the swimming party and who will be attending? your swimming activity is on swimming_activity_date, with your father. thanks!",happy to help
+what time is my lab appointment and who will be attending?,your lab appointment is at 7 pm with lab_appointment_party and another one at 2 pm with alex.
+what time is my lab appointment and who will be attending? your lab appointment is at 7 pm with lab_appointment_party and another one at 2 pm with alex.  thanks!,my pleasure.
+what is a good chinese restaurant?,i have a few chinese restaurants listed. which one would you like to know about?
+what is a good chinese restaurant? i have a few chinese restaurants listed. which one would you like to know about? the nearby one please,"p.f.changs is 3 miles away but there is currently heavy traffic on the route. panda express is farther at Panda_Express_distance away, but there isn't any traffic"
+"what is a good chinese restaurant? i have a few chinese restaurants listed. which one would you like to know about? the nearby one please p.f.changs is 3 miles away but there is currently heavy traffic on the route. panda express is farther at Panda_Express_distance away, but there isn't any traffic is that the fastest option?",yes panda express seems to be the fastest.
+"what is a good chinese restaurant? i have a few chinese restaurants listed. which one would you like to know about? the nearby one please p.f.changs is 3 miles away but there is currently heavy traffic on the route. panda express is farther at Panda_Express_distance away, but there isn't any traffic is that the fastest option? yes panda express seems to be the fastest.  okay great, please set the navigation to take me there.",all right! navigating to panda express at Panda_Express_address.
+"what is a good chinese restaurant? i have a few chinese restaurants listed. which one would you like to know about? the nearby one please p.f.changs is 3 miles away but there is currently heavy traffic on the route. panda express is farther at Panda_Express_distance away, but there isn't any traffic is that the fastest option? yes panda express seems to be the fastest.  okay great, please set the navigation to take me there. all right! navigating to panda express at Panda_Express_address. thank you car!",you're welcome!
+what is the date and time of my next meeting and who will be attending it?,your next meeting is with your boss on meeting_date at 2pm.
+what is the date and time of my next meeting and who will be attending it? your next meeting is with your boss on meeting_date at 2pm. thank you.,you're welcome.
+check today's forecast for rain,what city do you want to know if it's going to rain or not?
+check today's forecast for rain what city do you want to know if it's going to rain or not? fresno thanks,there is no rain in fresno today but it will be cloudy.
+check today's forecast for rain what city do you want to know if it's going to rain or not? fresno thanks there is no rain in fresno today but it will be cloudy. thank you,you are welcome
+i need to find out the date and time for my swimming activity!,"i have two, which one? i have one for swimming_activity_date at 6pm and one for the 12th at 7pm."
+"i need to find out the date and time for my swimming activity!  i have two, which one? i have one for swimming_activity_date at 6pm and one for the 12th at 7pm.  thanks!",anytime!
+search today's forecast,what city can i give you the weather forecast for?
+search today's forecast what city can i give you the weather forecast for? will it be humid in oakland today?,today is gonna be dry on oakland
+search today's forecast what city can i give you the weather forecast for? will it be humid in oakland today? today is gonna be dry on oakland thank you.,you're welcome!
+schedule a meeting at 6 pm on the 5th of this month with boss to go over quarterly report.,"okay, scheduling a meeting with your boss to go over quarterly report on the 5th at 6pm."
+what's the weather like in grand rapids,is there a specific day you would like me to check the weather in grand rapids for?
+what's the weather like in grand rapids is there a specific day you would like me to check the weather in grand rapids for? i would like to know the weather for grand_rapids_friday.,grand rapids on grand_rapids_friday will be windy between 60-70f.
+what's the weather like in grand rapids is there a specific day you would like me to check the weather in grand rapids for? i would like to know the weather for grand_rapids_friday. grand rapids on grand_rapids_friday will be windy between 60-70f. thank you.,you are welcome.
+what's the weather like in grand rapids is there a specific day you would like me to check the weather in grand rapids for? i would like to know the weather for grand_rapids_friday. grand rapids on grand_rapids_friday will be windy between 60-70f. thank you. you are welcome. thanks again!,you're welcome.
+what is the weather like in new york city,did you want the current weather?
+"what is the weather like in new york city did you want the current weather? yes, today's weather report please.","today's weather forecast is foggy, the low temperature of 40f and high of 60f."
+"what is the weather like in new york city did you want the current weather? yes, today's weather report please. today's weather forecast is foggy, the low temperature of 40f and high of 60f. thank you.",not a problem.
+is it raining today,what city would you like weather information about?
+is it raining today what city would you like weather information about? i need it for new york.,yes the forecast calls for rain in new york today.
+is it raining today what city would you like weather information about? i need it for new york. yes the forecast calls for rain in new york today. thank you.,no problem.
+remind me about my lab appointment,what date is your appointment?
+remind me about my lab appointment what date is your appointment? my doctor's appointment is at 7pm on monday the 1st.,a reminder has been set for your doctor's appointment at 7pm on monday.
+"remind me about my lab appointment what date is your appointment? my doctor's appointment is at 7pm on monday the 1st.  a reminder has been set for your doctor's appointment at 7pm on monday. ok, thanks",no problem
+"please give me the address and directions to home within 5 miles of here, avoiding all home_traffic_info.",i'm sorry the only route home has home_traffic_info. it will be a 7 mile drive to 10 ames street
+"please give me the address and directions to home within 5 miles of here, avoiding all home_traffic_info.  i'm sorry the only route home has home_traffic_info. it will be a 7 mile drive to 10 ames street ok that will do. thank you.",you're very welcome!
+is it snowing in redwood city right now?,it is cloudy in redwood city today.
+is it snowing in redwood city right now? it is cloudy in redwood city today. but it's not snowing?,"no, it is not snowing in redwood city today."
+"is it snowing in redwood city right now? it is cloudy in redwood city today. but it's not snowing?  no, it is not snowing in redwood city today. thank you",happy to help
+take me to the mall to buy some clothes,would you prefer stanford shopping center which is 7 miles away with no traffic or ravenswood shopping center which is 1 mile away with a Ravenswood_Shopping_Center_traffic_info?
+take me to the mall to buy some clothes would you prefer stanford shopping center which is 7 miles away with no traffic or ravenswood shopping center which is 1 mile away with a Ravenswood_Shopping_Center_traffic_info?  i am guessing ravenswood would be faster. let's go there.,setting directions to Ravenswood_Shopping_Center_address now.
+take me to the mall to buy some clothes would you prefer stanford shopping center which is 7 miles away with no traffic or ravenswood shopping center which is 1 mile away with a Ravenswood_Shopping_Center_traffic_info?  i am guessing ravenswood would be faster. let's go there.  setting directions to Ravenswood_Shopping_Center_address now.  thank you very much car!,you are welcome.
+what is the date and time for my yoga activity?,you have two yoga activities scheduled. one on monday at 5pm and another on yoga_activity_date at 4pm.
+what is the date and time for my yoga activity? you have two yoga activities scheduled. one on monday at 5pm and another on yoga_activity_date at 4pm. thank you.,have a great day.
+navigate home,there is home_traffic_info on the 4 mile route home to 56 cadwell street
+"navigate home there is home_traffic_info on the 4 mile route home to 56 cadwell street okay, thank you",you're welcome; drive carefully.
+"navigate home there is home_traffic_info on the 4 mile route home to 56 cadwell street okay, thank you you're welcome; drive carefully.  [end conversation]",anytime
+i'm in the mood for some tea can you show me directions to the nearest cafe,here are directions to cafe venetia.
+i'm in the mood for some tea can you show me directions to the nearest cafe here are directions to cafe venetia. hope it doesn't have any traffic.,"unfortunately there is heavy traffic but it's just Cafe_Venetia_distance away, you should be able to reach it quickly anyway"
+"i'm in the mood for some tea can you show me directions to the nearest cafe here are directions to cafe venetia. hope it doesn't have any traffic. unfortunately there is heavy traffic but it's just Cafe_Venetia_distance away, you should be able to reach it quickly anyway what is the address?",Cafe_Venetia_address is the location of cafe venetia.
+"i'm in the mood for some tea can you show me directions to the nearest cafe here are directions to cafe venetia. hope it doesn't have any traffic. unfortunately there is heavy traffic but it's just Cafe_Venetia_distance away, you should be able to reach it quickly anyway what is the address? Cafe_Venetia_address is the location of cafe venetia. thank you very much car!",you're welcome!
+remind me about tennis at 10am at the end of march with martha,okay a reminder is set for tennis with martha at 10am. what is the date for the scheduled tennis event?
+remind me about tennis at 10am at the end of march with martha okay a reminder is set for tennis with martha at 10am. what is the date for the scheduled tennis event? just set it for the end of march,ok setting reminder for your tennis with martha at 10am for the last week of march.
+remind me about tennis at 10am at the end of march with martha okay a reminder is set for tennis with martha at 10am. what is the date for the scheduled tennis event? just set it for the end of march ok setting reminder for your tennis with martha at 10am for the last week of march. thanks,you are welcome.
+please give me the address and directions via the shortest distance to the nearest pizza place.,"the closest is pizza chicago, Pizza_Chicago_distance away at 915 arbol dr. would you like directions there?"
+"please give me the address and directions via the shortest distance to the nearest pizza place.  the closest is pizza chicago, Pizza_Chicago_distance away at 915 arbol dr. would you like directions there? yes, please show me the route with the shortest distance, thank you!",here is the shortest route to pizza chicago.
+"please give me the address and directions via the shortest distance to the nearest pizza place.  the closest is pizza chicago, Pizza_Chicago_distance away at 915 arbol dr. would you like directions there? yes, please show me the route with the shortest distance, thank you! here is the shortest route to pizza chicago. thank you car!",you're welcome!
+give me a location to a local parking lot,there's a parking garage Palo_Alto_Garage_R_distance away. would you like the name and address of it?
+give me a location to a local parking lot there's a parking garage Palo_Alto_Garage_R_distance away. would you like the name and address of it? yes and please provide a quick route to get there.,navigating to palo alto garage r.
+"give me a location to a local parking lot there's a parking garage Palo_Alto_Garage_R_distance away. would you like the name and address of it? yes and please provide a quick route to get there.  navigating to palo alto garage r. please pick the quickest route, thank you!","i did, and i sent the info on your screen: drive carefully!"
+what is the forecast for the next 7 days,for what city are you interested in?
+"what is the forecast for the next 7 days for what city are you interested in? cleveland, will it be windy?",it will not be windy in cleveland next week.
+"what is the forecast for the next 7 days for what city are you interested in? cleveland, will it be windy? it will not be windy in cleveland next week. thank you.",no problem.
+show me directions to the nearest grocery store,the nearest grocery store is located Safeway_distance away at 452 arcadia pl.
+"show me directions to the nearest grocery store the nearest grocery store is located Safeway_distance away at 452 arcadia pl.  pick the fastest route and with least traffic, then send the address on my screen please",safeway is located at Safeway_address. and navigation is set.
+"show me directions to the nearest grocery store the nearest grocery store is located Safeway_distance away at 452 arcadia pl.  pick the fastest route and with least traffic, then send the address on my screen please safeway is located at Safeway_address. and navigation is set.  hope you picked the fastest route or no more gasoline for you, car.. just kidding, thank you!","i did, i did! you're welcome!"
+schedule a conference with the executive team for the 15th of this month at 9am.,"okay, scheduling a conference with the executive team for the 15th at 9am."
+"schedule a conference with the executive team for the 15th of this month at 9am. okay, scheduling a conference with the executive team for the 15th at 9am. thanks.",you're welcome friend.
