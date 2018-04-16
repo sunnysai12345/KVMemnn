@@ -1,432 +1,432 @@
 ,object,relation,subject
-0,Dish Parking_address,address,Dish Parking
-1,Dish Parking_traffic_info,traffic_info,Dish Parking
-2,Dish Parking_distance,distance,Dish Parking
-3,Stanford Oval Parking_address,address,Stanford Oval Parking
-4,Stanford Oval Parking_traffic_info,traffic_info,Stanford Oval Parking
-5,Stanford Oval Parking_distance,distance,Stanford Oval Parking
-6,Willows Market_address,address,Willows Market
-7,Willows Market_traffic_info,traffic_info,Willows Market
-8,Willows Market_distance,distance,Willows Market
-9,The Westin_address,address,The Westin
-10,The Westin_traffic_info,traffic_info,The Westin
-11,The Westin_distance,distance,The Westin
-12,toms house_address,address,toms house
-13,toms house_traffic_info,traffic_info,toms house
-14,toms house_distance,distance,toms house
-15,Pizza Chicago_address,address,Pizza Chicago
-16,Pizza Chicago_traffic_info,traffic_info,Pizza Chicago
-17,Pizza Chicago_distance,distance,Pizza Chicago
-18,Valero_address,address,Valero
-19,Valero_traffic_info,traffic_info,Valero
-20,Valero_distance,distance,Valero
-21,Mandarin Roots_address,address,Mandarin Roots
-22,Mandarin Roots_traffic_info,traffic_info,Mandarin Roots
-23,Mandarin Roots_distance,distance,Mandarin Roots
-24,Town and Country_address,address,Town and Country
-25,Town and Country_traffic_info,traffic_info,Town and Country
-26,Town and Country_distance,distance,Town and Country
-27,76_address,address,76
-28,76_traffic_info,traffic_info,76
-29,76_distance,distance,76
-30,Stanford Shopping Center_address,address,Stanford Shopping Center
-31,Stanford Shopping Center_traffic_info,traffic_info,Stanford Shopping Center
-32,Stanford Shopping Center_distance,distance,Stanford Shopping Center
-33,Teavana_address,address,Teavana
-34,Teavana_traffic_info,traffic_info,Teavana
-35,Teavana_distance,distance,Teavana
-36,Dominos_address,address,Dominos
-37,Dominos_traffic_info,traffic_info,Dominos
-38,Dominos_distance,distance,Dominos
-39,Palo Alto Garage R_address,address,Palo Alto Garage R
-40,Palo Alto Garage R_traffic_info,traffic_info,Palo Alto Garage R
-41,Palo Alto Garage R_distance,distance,Palo Alto Garage R
-42,Stanford Express Care_address,address,Stanford Express Care
-43,Stanford Express Care_traffic_info,traffic_info,Stanford Express Care
-44,Stanford Express Care_distance,distance,Stanford Express Care
-45,Palo Alto Medical Foundation_address,address,Palo Alto Medical Foundation
-46,Palo Alto Medical Foundation_traffic_info,traffic_info,Palo Alto Medical Foundation
-47,Palo Alto Medical Foundation_distance,distance,Palo Alto Medical Foundation
-48,P.F. Changs_address,address,P.F. Changs
-49,P.F. Changs_traffic_info,traffic_info,P.F. Changs
-50,P.F. Changs_distance,distance,P.F. Changs
-51,Ravenswood Shopping Center_address,address,Ravenswood Shopping Center
-52,Ravenswood Shopping Center_traffic_info,traffic_info,Ravenswood Shopping Center
-53,Ravenswood Shopping Center_distance,distance,Ravenswood Shopping Center
-54,Chef Chu's_address,address,Chef Chu's
-55,Chef Chu's_traffic_info,traffic_info,Chef Chu's
-56,Chef Chu's_distance,distance,Chef Chu's
-63,home_address,address,home
-64,home_traffic_info,traffic_info,home
-65,home_distance,distance,home
-66,Philz_address,address,Philz
-67,Philz_traffic_info,traffic_info,Philz
-68,Philz_distance,distance,Philz
-72,dentist appointment_time,time,dentist appointment
-73,dentist appointment_room,room,dentist appointment
-74,dentist appointment_party,party,dentist appointment
-75,dentist appointment_agenda,agenda,dentist appointment
-76,dentist appointment_date,date,dentist appointment
-77,taking medicine_time,time,taking medicine
-78,taking medicine_room,room,taking medicine
-79,taking medicine_party,party,taking medicine
-80,taking medicine_agenda,agenda,taking medicine
-81,taking medicine_date,date,taking medicine
-82,football activity_time,time,football activity
-83,football activity_room,room,football activity
-84,football activity_party,party,football activity
-85,football activity_agenda,agenda,football activity
-86,football activity_date,date,football activity
-87,yoga activity_time,time,yoga activity
-88,yoga activity_room,room,yoga activity
-89,yoga activity_party,party,yoga activity
-90,yoga activity_agenda,agenda,yoga activity
-91,yoga activity_date,date,yoga activity
-92,lab appointment_time,time,lab appointment
-93,lab appointment_room,room,lab appointment
-94,lab appointment_party,party,lab appointment
-95,lab appointment_agenda,agenda,lab appointment
-96,lab appointment_date,date,lab appointment
-97,dinner_time,time,dinner
-98,dinner_room,room,dinner
-99,dinner_party,party,dinner
-100,dinner_agenda,agenda,dinner
-101,dinner_date,date,dinner
-102,manhattan_monday,monday,manhattan
-103,manhattan_tuesday,tuesday,manhattan
-104,manhattan_wednesday,wednesday,manhattan
-105,manhattan_thursday,thursday,manhattan
-106,manhattan_friday,friday,manhattan
-107,manhattan_saturday,saturday,manhattan
-108,manhattan_sunday,sunday,manhattan
-109,camarillo_monday,monday,camarillo
-110,camarillo_tuesday,tuesday,camarillo
-111,camarillo_wednesday,wednesday,camarillo
-112,camarillo_thursday,thursday,camarillo
-113,camarillo_friday,friday,camarillo
-114,camarillo_saturday,saturday,camarillo
-115,camarillo_sunday,sunday,camarillo
-116,menlo park_monday,monday,menlo park
-117,menlo park_tuesday,tuesday,menlo park
-118,menlo park_wednesday,wednesday,menlo park
-119,menlo park_thursday,thursday,menlo park
-120,menlo park_friday,friday,menlo park
-121,menlo park_saturday,saturday,menlo park
-122,menlo park_sunday,sunday,menlo park
-123,new york_monday,monday,new york
-124,new york_tuesday,tuesday,new york
-125,new york_wednesday,wednesday,new york
-126,new york_thursday,thursday,new york
-127,new york_friday,friday,new york
-128,new york_saturday,saturday,new york
-129,new york_sunday,sunday,new york
-130,corona_monday,monday,corona
-131,corona_tuesday,tuesday,corona
-132,corona_wednesday,wednesday,corona
-133,corona_thursday,thursday,corona
-134,corona_friday,friday,corona
-135,corona_saturday,saturday,corona
-136,corona_sunday,sunday,corona
-137,seattle_monday,monday,seattle
-138,seattle_tuesday,tuesday,seattle
-139,seattle_wednesday,wednesday,seattle
-140,seattle_thursday,thursday,seattle
-141,seattle_friday,friday,seattle
-142,seattle_saturday,saturday,seattle
-143,seattle_sunday,sunday,seattle
-144,grand rapids_monday,monday,grand rapids
-145,grand rapids_tuesday,tuesday,grand rapids
-146,grand rapids_wednesday,wednesday,grand rapids
-147,grand rapids_thursday,thursday,grand rapids
-148,grand rapids_friday,friday,grand rapids
-149,grand rapids_saturday,saturday,grand rapids
-150,grand rapids_sunday,sunday,grand rapids
-151,danville_monday,monday,danville
-152,danville_tuesday,tuesday,danville
-153,danville_wednesday,wednesday,danville
-154,danville_thursday,thursday,danville
-155,danville_friday,friday,danville
-156,danville_saturday,saturday,danville
-157,danville_sunday,sunday,danville
-165,san jose_monday,monday,san jose
-166,san jose_tuesday,tuesday,san jose
-167,san jose_wednesday,wednesday,san jose
-168,san jose_thursday,thursday,san jose
-169,san jose_friday,friday,san jose
-170,san jose_saturday,saturday,san jose
-171,san jose_sunday,sunday,san jose
-172,los angeles_monday,monday,los angeles
-173,los angeles_tuesday,tuesday,los angeles
-174,los angeles_wednesday,wednesday,los angeles
-175,los angeles_thursday,thursday,los angeles
-176,los angeles_friday,friday,los angeles
-177,los angeles_saturday,saturday,los angeles
-178,los angeles_sunday,sunday,los angeles
-179,durham_monday,monday,durham
-180,durham_tuesday,tuesday,durham
-181,durham_wednesday,wednesday,durham
-182,durham_thursday,thursday,durham
-183,durham_friday,friday,durham
-184,durham_saturday,saturday,durham
-185,durham_sunday,sunday,durham
-186,san francisco_monday,monday,san francisco
-187,san francisco_tuesday,tuesday,san francisco
-188,san francisco_wednesday,wednesday,san francisco
-189,san francisco_thursday,thursday,san francisco
-190,san francisco_friday,friday,san francisco
-191,san francisco_saturday,saturday,san francisco
-192,san francisco_sunday,sunday,san francisco
-193,boston_monday,monday,boston
-194,boston_tuesday,tuesday,boston
-195,boston_wednesday,wednesday,boston
-196,boston_thursday,thursday,boston
-197,boston_friday,friday,boston
-198,boston_saturday,saturday,boston
-199,boston_sunday,sunday,boston
-200,cleveland_monday,monday,cleveland
-201,cleveland_tuesday,tuesday,cleveland
-202,cleveland_wednesday,wednesday,cleveland
-203,cleveland_thursday,thursday,cleveland
-204,cleveland_friday,friday,cleveland
-205,cleveland_saturday,saturday,cleveland
-206,cleveland_sunday,sunday,cleveland
-214,brentwood_monday,monday,brentwood
-215,brentwood_tuesday,tuesday,brentwood
-216,brentwood_wednesday,wednesday,brentwood
-217,brentwood_thursday,thursday,brentwood
-218,brentwood_friday,friday,brentwood
-219,brentwood_saturday,saturday,brentwood
-220,brentwood_sunday,sunday,brentwood
-221,inglewood_monday,monday,inglewood
-222,inglewood_tuesday,tuesday,inglewood
-223,inglewood_wednesday,wednesday,inglewood
-224,inglewood_thursday,thursday,inglewood
-225,inglewood_friday,friday,inglewood
-226,inglewood_saturday,saturday,inglewood
-227,inglewood_sunday,sunday,inglewood
-228,mountain view_monday,monday,mountain view
-229,mountain view_tuesday,tuesday,mountain view
-230,mountain view_wednesday,wednesday,mountain view
-231,mountain view_thursday,thursday,mountain view
-232,mountain view_friday,friday,mountain view
-233,mountain view_saturday,saturday,mountain view
-234,mountain view_sunday,sunday,mountain view
-242,compton_monday,monday,compton
-243,compton_tuesday,tuesday,compton
-244,compton_wednesday,wednesday,compton
-245,compton_thursday,thursday,compton
-246,compton_friday,friday,compton
-247,compton_saturday,saturday,compton
-248,compton_sunday,sunday,compton
-284,oakland_monday,monday,oakland
-285,oakland_tuesday,tuesday,oakland
-286,oakland_wednesday,wednesday,oakland
-287,oakland_thursday,thursday,oakland
-288,oakland_friday,friday,oakland
-289,oakland_saturday,saturday,oakland
-290,oakland_sunday,sunday,oakland
-305,san mateo_monday,monday,san mateo
-306,san mateo_tuesday,tuesday,san mateo
-307,san mateo_wednesday,wednesday,san mateo
-308,san mateo_thursday,thursday,san mateo
-309,san mateo_friday,friday,san mateo
-310,san mateo_saturday,saturday,san mateo
-311,san mateo_sunday,sunday,san mateo
-326,alhambra_monday,monday,alhambra
-327,alhambra_tuesday,tuesday,alhambra
-328,alhambra_wednesday,wednesday,alhambra
-329,alhambra_thursday,thursday,alhambra
-330,alhambra_friday,friday,alhambra
-331,alhambra_saturday,saturday,alhambra
-332,alhambra_sunday,sunday,alhambra
-333,atherton_monday,monday,atherton
-334,atherton_tuesday,tuesday,atherton
-335,atherton_wednesday,wednesday,atherton
-336,atherton_thursday,thursday,atherton
-337,atherton_friday,friday,atherton
-338,atherton_saturday,saturday,atherton
-339,atherton_sunday,sunday,atherton
-347,redwood city_monday,monday,redwood city
-348,redwood city_tuesday,tuesday,redwood city
-349,redwood city_wednesday,wednesday,redwood city
-350,redwood city_thursday,thursday,redwood city
-351,redwood city_friday,friday,redwood city
-352,redwood city_saturday,saturday,redwood city
-353,redwood city_sunday,sunday,redwood city
-389,exeter_monday,monday,exeter
-390,exeter_tuesday,tuesday,exeter
-391,exeter_wednesday,wednesday,exeter
-392,exeter_thursday,thursday,exeter
-393,exeter_friday,friday,exeter
-394,exeter_saturday,saturday,exeter
-395,exeter_sunday,sunday,exeter
-399,Starbucks_address,address,Starbucks
-400,Starbucks_traffic_info,traffic_info,Starbucks
-401,Starbucks_distance,distance,Starbucks
-405,5677 springer street_address,address,5677 springer street
-406,5677 springer street_traffic_info,traffic_info,5677 springer street
-407,5677 springer street_distance,distance,5677 springer street
-408,Safeway_address,address,Safeway
-409,Safeway_traffic_info,traffic_info,Safeway
-410,Safeway_distance,distance,Safeway
-414,Hotel Keen_address,address,Hotel Keen
-415,Hotel Keen_traffic_info,traffic_info,Hotel Keen
-416,Hotel Keen_distance,distance,Hotel Keen
-420,Papa Johns_address,address,Papa Johns
-421,Papa Johns_traffic_info,traffic_info,Papa Johns
-422,Papa Johns_distance,distance,Papa Johns
-423,Jing Jing_address,address,Jing Jing
-424,Jing Jing_traffic_info,traffic_info,Jing Jing
-425,Jing Jing_distance,distance,Jing Jing
-426,Whole Foods_address,address,Whole Foods
-427,Whole Foods_traffic_info,traffic_info,Whole Foods
-428,Whole Foods_distance,distance,Whole Foods
-429,Peets Coffee_address,address,Peets Coffee
-430,Peets Coffee_traffic_info,traffic_info,Peets Coffee
-431,Peets Coffee_distance,distance,Peets Coffee
-446,meeting_time,time,meeting
-447,meeting_room,room,meeting
-448,meeting_party,party,meeting
-449,meeting_agenda,agenda,meeting
-450,meeting_date,date,meeting
-456,doctor appointment_time,time,doctor appointment
-457,doctor appointment_room,room,doctor appointment
-458,doctor appointment_party,party,doctor appointment
-459,doctor appointment_agenda,agenda,doctor appointment
-460,doctor appointment_date,date,doctor appointment
-509,fresno_monday,monday,fresno
-510,fresno_tuesday,tuesday,fresno
-511,fresno_wednesday,wednesday,fresno
-512,fresno_thursday,thursday,fresno
-513,fresno_friday,friday,fresno
-514,fresno_saturday,saturday,fresno
-515,fresno_sunday,sunday,fresno
-516,alameda_monday,monday,alameda
-517,alameda_tuesday,tuesday,alameda
-518,alameda_wednesday,wednesday,alameda
-519,alameda_thursday,thursday,alameda
-520,alameda_friday,friday,alameda
-521,alameda_saturday,saturday,alameda
-522,alameda_sunday,sunday,alameda
-640,carson_monday,monday,carson
-641,carson_tuesday,tuesday,carson
-642,carson_wednesday,wednesday,carson
-643,carson_thursday,thursday,carson
-644,carson_friday,friday,carson
-645,carson_saturday,saturday,carson
-646,carson_sunday,sunday,carson
-689,downtown chicago_monday,monday,downtown chicago
-690,downtown chicago_tuesday,tuesday,downtown chicago
-691,downtown chicago_wednesday,wednesday,downtown chicago
-692,downtown chicago_thursday,thursday,downtown chicago
-693,downtown chicago_friday,friday,downtown chicago
-694,downtown chicago_saturday,saturday,downtown chicago
-695,downtown chicago_sunday,sunday,downtown chicago
-741,Pizza Hut_address,address,Pizza Hut
-742,Pizza Hut_traffic_info,traffic_info,Pizza Hut
-743,Pizza Hut_distance,distance,Pizza Hut
-744,Four Seasons_address,address,Four Seasons
-745,Four Seasons_traffic_info,traffic_info,Four Seasons
-746,Four Seasons_distance,distance,Four Seasons
-753,Trader Joes_address,address,Trader Joes
-754,Trader Joes_traffic_info,traffic_info,Trader Joes
-755,Trader Joes_distance,distance,Trader Joes
-756,tai pan_address,address,tai pan
-757,tai pan_traffic_info,traffic_info,tai pan
-758,tai pan_distance,distance,tai pan
-759,Sigona Farmers Market_address,address,Sigona Farmers Market
-760,Sigona Farmers Market_traffic_info,traffic_info,Sigona Farmers Market
-761,Sigona Farmers Market_distance,distance,Sigona Farmers Market
-866,Midtown Shopping Center_address,address,Midtown Shopping Center
-867,Midtown Shopping Center_traffic_info,traffic_info,Midtown Shopping Center
-868,Midtown Shopping Center_distance,distance,Midtown Shopping Center
-872,jills house_address,address,jills house
-873,jills house_traffic_info,traffic_info,jills house
-874,jills house_distance,distance,jills house
-875,Palo Alto Cafe_address,address,Palo Alto Cafe
-876,Palo Alto Cafe_traffic_info,traffic_info,Palo Alto Cafe
-877,Palo Alto Cafe_distance,distance,Palo Alto Cafe
-878,Topanga Mall_address,address,Topanga Mall
-879,Topanga Mall_traffic_info,traffic_info,Topanga Mall
-880,Topanga Mall_distance,distance,Topanga Mall
-884,Panda Express_address,address,Panda Express
-885,Panda Express_traffic_info,traffic_info,Panda Express
-886,Panda Express_distance,distance,Panda Express
-890,Chevron_address,address,Chevron
-891,Chevron_traffic_info,traffic_info,Chevron
-892,Chevron_distance,distance,Chevron
-893,jacks house_address,address,jacks house
-894,jacks house_traffic_info,traffic_info,jacks house
-895,jacks house_distance,distance,jacks house
-945,swimming activity_time,time,swimming activity
-946,swimming activity_room,room,swimming activity
-947,swimming activity_party,party,swimming activity
-948,swimming activity_agenda,agenda,swimming activity
-949,swimming activity_date,date,swimming activity
-960,medicine_time,time,medicine
-961,medicine_room,room,medicine
-962,medicine_party,party,medicine
-963,medicine_agenda,agenda,medicine
-964,medicine_date,date,medicine
-970,conference_time,time,conference
-971,conference_room,room,conference
-972,conference_party,party,conference
-973,conference_agenda,agenda,conference
-974,conference_date,date,conference
-1008,5672 barringer street_address,address,5672 barringer street
-1009,5672 barringer street_traffic_info,traffic_info,5672 barringer street
-1010,5672 barringer street_distance,distance,5672 barringer street
-1093,Round Table_address,address,Round Table
-1094,Round Table_traffic_info,traffic_info,Round Table
-1095,Round Table_distance,distance,Round Table
-1126,Shell_address,address,Shell
-1127,Shell_traffic_info,traffic_info,Shell
-1128,Shell_distance,distance,Shell
-1129,Cafe Venetia_address,address,Cafe Venetia
-1130,Cafe Venetia_traffic_info,traffic_info,Cafe Venetia
-1131,Cafe Venetia_distance,distance,Cafe Venetia
-1132,Comfort Inn_address,address,Comfort Inn
-1133,Comfort Inn_traffic_info,traffic_info,Comfort Inn
-1134,Comfort Inn_distance,distance,Comfort Inn
-1135,Hacienda Market_address,address,Hacienda Market
-1136,Hacienda Market_traffic_info,traffic_info,Hacienda Market
-1137,Hacienda Market_distance,distance,Hacienda Market
-1150,Webster Garage_address,address,Webster Garage
-1151,Webster Garage_traffic_info,traffic_info,Webster Garage
-1152,Webster Garage_distance,distance,Webster Garage
-1177,Pizza My Heart_address,address,Pizza My Heart
-1178,Pizza My Heart_traffic_info,traffic_info,Pizza My Heart
-1179,Pizza My Heart_distance,distance,Pizza My Heart
-1232,5677 southwest 4th street_address,address,5677 southwest 4th street
-1233,5677 southwest 4th street_traffic_info,traffic_info,5677 southwest 4th street
-1234,5677 southwest 4th street_distance,distance,5677 southwest 4th street
-1241,Stanford Childrens Health_address,address,Stanford Childrens Health
-1242,Stanford Childrens Health_traffic_info,traffic_info,Stanford Childrens Health
-1243,Stanford Childrens Health_distance,distance,Stanford Childrens Health
-1317,Civic Center Garage_address,address,Civic Center Garage
-1318,Civic Center Garage_traffic_info,traffic_info,Civic Center Garage
-1319,Civic Center Garage_distance,distance,Civic Center Garage
-1404,tennis activity_time,time,tennis activity
-1405,tennis activity_room,room,tennis activity
-1406,tennis activity_party,party,tennis activity
-1407,tennis activity_agenda,agenda,tennis activity
-1408,tennis activity_date,date,tennis activity
-1664,optometrist appointment_time,time,optometrist appointment
-1665,optometrist appointment_room,room,optometrist appointment
-1666,optometrist appointment_party,party,optometrist appointment
-1667,optometrist appointment_agenda,agenda,optometrist appointment
-1668,optometrist appointment_date,date,optometrist appointment
-2034,Coupa_address,address,Coupa
-2035,Coupa_traffic_info,traffic_info,Coupa
-2036,Coupa_distance,distance,Coupa
-2384,dentist_time,time,dentist
-2385,dentist_room,room,dentist
-2386,dentist_party,party,dentist
-2387,dentist_agenda,agenda,dentist
-2388,dentist_date,date,dentist
-3163,The Clement Hotel_address,address,The Clement Hotel
-3164,The Clement Hotel_traffic_info,traffic_info,The Clement Hotel
-3165,The Clement Hotel_distance,distance,The Clement Hotel
-5530,Travelers Lodge_address,address,Travelers Lodge
-5531,Travelers Lodge_traffic_info,traffic_info,Travelers Lodge
-5532,Travelers Lodge_distance,distance,Travelers Lodge
+0,Chevron_address,address,Chevron
+1,Chevron_traffic_info,traffic_info,Chevron
+2,Chevron_distance,distance,Chevron
+3,Town and Country_address,address,Town and Country
+4,Town and Country_traffic_info,traffic_info,Town and Country
+5,Town and Country_distance,distance,Town and Country
+6,jacks house_address,address,jacks house
+7,jacks house_traffic_info,traffic_info,jacks house
+8,jacks house_distance,distance,jacks house
+9,home_address,address,home
+10,home_traffic_info,traffic_info,home
+11,home_distance,distance,home
+12,The Clement Hotel_address,address,The Clement Hotel
+13,The Clement Hotel_traffic_info,traffic_info,The Clement Hotel
+14,The Clement Hotel_distance,distance,The Clement Hotel
+15,Sigona Farmers Market_address,address,Sigona Farmers Market
+16,Sigona Farmers Market_traffic_info,traffic_info,Sigona Farmers Market
+17,Sigona Farmers Market_distance,distance,Sigona Farmers Market
+18,tai pan_address,address,tai pan
+19,tai pan_traffic_info,traffic_info,tai pan
+20,tai pan_distance,distance,tai pan
+21,danville_monday,monday,danville
+22,danville_tuesday,tuesday,danville
+23,danville_wednesday,wednesday,danville
+24,danville_thursday,thursday,danville
+25,danville_friday,friday,danville
+26,danville_saturday,saturday,danville
+27,danville_sunday,sunday,danville
+28,alhambra_monday,monday,alhambra
+29,alhambra_tuesday,tuesday,alhambra
+30,alhambra_wednesday,wednesday,alhambra
+31,alhambra_thursday,thursday,alhambra
+32,alhambra_friday,friday,alhambra
+33,alhambra_saturday,saturday,alhambra
+34,alhambra_sunday,sunday,alhambra
+35,inglewood_monday,monday,inglewood
+36,inglewood_tuesday,tuesday,inglewood
+37,inglewood_wednesday,wednesday,inglewood
+38,inglewood_thursday,thursday,inglewood
+39,inglewood_friday,friday,inglewood
+40,inglewood_saturday,saturday,inglewood
+41,inglewood_sunday,sunday,inglewood
+42,durham_monday,monday,durham
+43,durham_tuesday,tuesday,durham
+44,durham_wednesday,wednesday,durham
+45,durham_thursday,thursday,durham
+46,durham_friday,friday,durham
+47,durham_saturday,saturday,durham
+48,durham_sunday,sunday,durham
+49,san francisco_monday,monday,san francisco
+50,san francisco_tuesday,tuesday,san francisco
+51,san francisco_wednesday,wednesday,san francisco
+52,san francisco_thursday,thursday,san francisco
+53,san francisco_friday,friday,san francisco
+54,san francisco_saturday,saturday,san francisco
+55,san francisco_sunday,sunday,san francisco
+56,compton_monday,monday,compton
+57,compton_tuesday,tuesday,compton
+58,compton_wednesday,wednesday,compton
+59,compton_thursday,thursday,compton
+60,compton_friday,friday,compton
+61,compton_saturday,saturday,compton
+62,compton_sunday,sunday,compton
+63,brentwood_monday,monday,brentwood
+64,brentwood_tuesday,tuesday,brentwood
+65,brentwood_wednesday,wednesday,brentwood
+66,brentwood_thursday,thursday,brentwood
+67,brentwood_friday,friday,brentwood
+68,brentwood_saturday,saturday,brentwood
+69,brentwood_sunday,sunday,brentwood
+70,The Westin_address,address,The Westin
+71,The Westin_traffic_info,traffic_info,The Westin
+72,The Westin_distance,distance,The Westin
+73,Palo Alto Garage R_address,address,Palo Alto Garage R
+74,Palo Alto Garage R_traffic_info,traffic_info,Palo Alto Garage R
+75,Palo Alto Garage R_distance,distance,Palo Alto Garage R
+76,Mandarin Roots_address,address,Mandarin Roots
+77,Mandarin Roots_traffic_info,traffic_info,Mandarin Roots
+78,Mandarin Roots_distance,distance,Mandarin Roots
+82,Whole Foods_address,address,Whole Foods
+83,Whole Foods_traffic_info,traffic_info,Whole Foods
+84,Whole Foods_distance,distance,Whole Foods
+85,Stanford Shopping Center_address,address,Stanford Shopping Center
+86,Stanford Shopping Center_traffic_info,traffic_info,Stanford Shopping Center
+87,Stanford Shopping Center_distance,distance,Stanford Shopping Center
+88,toms house_address,address,toms house
+89,toms house_traffic_info,traffic_info,toms house
+90,toms house_distance,distance,toms house
+98,manhattan_monday,monday,manhattan
+99,manhattan_tuesday,tuesday,manhattan
+100,manhattan_wednesday,wednesday,manhattan
+101,manhattan_thursday,thursday,manhattan
+102,manhattan_friday,friday,manhattan
+103,manhattan_saturday,saturday,manhattan
+104,manhattan_sunday,sunday,manhattan
+105,grand rapids_monday,monday,grand rapids
+106,grand rapids_tuesday,tuesday,grand rapids
+107,grand rapids_wednesday,wednesday,grand rapids
+108,grand rapids_thursday,thursday,grand rapids
+109,grand rapids_friday,friday,grand rapids
+110,grand rapids_saturday,saturday,grand rapids
+111,grand rapids_sunday,sunday,grand rapids
+119,atherton_monday,monday,atherton
+120,atherton_tuesday,tuesday,atherton
+121,atherton_wednesday,wednesday,atherton
+122,atherton_thursday,thursday,atherton
+123,atherton_friday,friday,atherton
+124,atherton_saturday,saturday,atherton
+125,atherton_sunday,sunday,atherton
+126,seattle_monday,monday,seattle
+127,seattle_tuesday,tuesday,seattle
+128,seattle_wednesday,wednesday,seattle
+129,seattle_thursday,thursday,seattle
+130,seattle_friday,friday,seattle
+131,seattle_saturday,saturday,seattle
+132,seattle_sunday,sunday,seattle
+133,fresno_monday,monday,fresno
+134,fresno_tuesday,tuesday,fresno
+135,fresno_wednesday,wednesday,fresno
+136,fresno_thursday,thursday,fresno
+137,fresno_friday,friday,fresno
+138,fresno_saturday,saturday,fresno
+139,fresno_sunday,sunday,fresno
+140,Trader Joes_address,address,Trader Joes
+141,Trader Joes_traffic_info,traffic_info,Trader Joes
+142,Trader Joes_distance,distance,Trader Joes
+146,Teavana_address,address,Teavana
+147,Teavana_traffic_info,traffic_info,Teavana
+148,Teavana_distance,distance,Teavana
+149,Dominos_address,address,Dominos
+150,Dominos_traffic_info,traffic_info,Dominos
+151,Dominos_distance,distance,Dominos
+155,Comfort Inn_address,address,Comfort Inn
+156,Comfort Inn_traffic_info,traffic_info,Comfort Inn
+157,Comfort Inn_distance,distance,Comfort Inn
+158,Panda Express_address,address,Panda Express
+159,Panda Express_traffic_info,traffic_info,Panda Express
+160,Panda Express_distance,distance,Panda Express
+164,Pizza My Heart_address,address,Pizza My Heart
+165,Pizza My Heart_traffic_info,traffic_info,Pizza My Heart
+166,Pizza My Heart_distance,distance,Pizza My Heart
+170,Hotel Keen_address,address,Hotel Keen
+171,Hotel Keen_traffic_info,traffic_info,Hotel Keen
+172,Hotel Keen_distance,distance,Hotel Keen
+173,Safeway_address,address,Safeway
+174,Safeway_traffic_info,traffic_info,Safeway
+175,Safeway_distance,distance,Safeway
+176,Midtown Shopping Center_address,address,Midtown Shopping Center
+177,Midtown Shopping Center_traffic_info,traffic_info,Midtown Shopping Center
+178,Midtown Shopping Center_distance,distance,Midtown Shopping Center
+179,Round Table_address,address,Round Table
+180,Round Table_traffic_info,traffic_info,Round Table
+181,Round Table_distance,distance,Round Table
+185,Willows Market_address,address,Willows Market
+186,Willows Market_traffic_info,traffic_info,Willows Market
+187,Willows Market_distance,distance,Willows Market
+188,Jing Jing_address,address,Jing Jing
+189,Jing Jing_traffic_info,traffic_info,Jing Jing
+190,Jing Jing_distance,distance,Jing Jing
+197,Stanford Childrens Health_address,address,Stanford Childrens Health
+198,Stanford Childrens Health_traffic_info,traffic_info,Stanford Childrens Health
+199,Stanford Childrens Health_distance,distance,Stanford Childrens Health
+200,76_address,address,76
+201,76_traffic_info,traffic_info,76
+202,76_distance,distance,76
+203,Peets Coffee_address,address,Peets Coffee
+204,Peets Coffee_traffic_info,traffic_info,Peets Coffee
+205,Peets Coffee_distance,distance,Peets Coffee
+206,Coupa_address,address,Coupa
+207,Coupa_traffic_info,traffic_info,Coupa
+208,Coupa_distance,distance,Coupa
+215,jills house_address,address,jills house
+216,jills house_traffic_info,traffic_info,jills house
+217,jills house_distance,distance,jills house
+218,Stanford Express Care_address,address,Stanford Express Care
+219,Stanford Express Care_traffic_info,traffic_info,Stanford Express Care
+220,Stanford Express Care_distance,distance,Stanford Express Care
+221,5672 barringer street_address,address,5672 barringer street
+222,5672 barringer street_traffic_info,traffic_info,5672 barringer street
+223,5672 barringer street_distance,distance,5672 barringer street
+224,Stanford Oval Parking_address,address,Stanford Oval Parking
+225,Stanford Oval Parking_traffic_info,traffic_info,Stanford Oval Parking
+226,Stanford Oval Parking_distance,distance,Stanford Oval Parking
+230,alameda_monday,monday,alameda
+231,alameda_tuesday,tuesday,alameda
+232,alameda_wednesday,wednesday,alameda
+233,alameda_thursday,thursday,alameda
+234,alameda_friday,friday,alameda
+235,alameda_saturday,saturday,alameda
+236,alameda_sunday,sunday,alameda
+237,mountain view_monday,monday,mountain view
+238,mountain view_tuesday,tuesday,mountain view
+239,mountain view_wednesday,wednesday,mountain view
+240,mountain view_thursday,thursday,mountain view
+241,mountain view_friday,friday,mountain view
+242,mountain view_saturday,saturday,mountain view
+243,mountain view_sunday,sunday,mountain view
+244,los angeles_monday,monday,los angeles
+245,los angeles_tuesday,tuesday,los angeles
+246,los angeles_wednesday,wednesday,los angeles
+247,los angeles_thursday,thursday,los angeles
+248,los angeles_friday,friday,los angeles
+249,los angeles_saturday,saturday,los angeles
+250,los angeles_sunday,sunday,los angeles
+279,swimming activity_time,time,swimming activity
+280,swimming activity_room,room,swimming activity
+281,swimming activity_party,party,swimming activity
+282,swimming activity_agenda,agenda,swimming activity
+283,swimming activity_date,date,swimming activity
+284,dinner_time,time,dinner
+285,dinner_room,room,dinner
+286,dinner_party,party,dinner
+287,dinner_agenda,agenda,dinner
+288,dinner_date,date,dinner
+289,lab appointment_time,time,lab appointment
+290,lab appointment_room,room,lab appointment
+291,lab appointment_party,party,lab appointment
+292,lab appointment_agenda,agenda,lab appointment
+293,lab appointment_date,date,lab appointment
+294,tennis activity_time,time,tennis activity
+295,tennis activity_room,room,tennis activity
+296,tennis activity_party,party,tennis activity
+297,tennis activity_agenda,agenda,tennis activity
+298,tennis activity_date,date,tennis activity
+299,football activity_time,time,football activity
+300,football activity_room,room,football activity
+301,football activity_party,party,football activity
+302,football activity_agenda,agenda,football activity
+303,football activity_date,date,football activity
+304,dentist_time,time,dentist
+305,dentist_room,room,dentist
+306,dentist_party,party,dentist
+307,dentist_agenda,agenda,dentist
+308,dentist_date,date,dentist
+309,Ravenswood Shopping Center_address,address,Ravenswood Shopping Center
+310,Ravenswood Shopping Center_traffic_info,traffic_info,Ravenswood Shopping Center
+311,Ravenswood Shopping Center_distance,distance,Ravenswood Shopping Center
+312,Civic Center Garage_address,address,Civic Center Garage
+313,Civic Center Garage_traffic_info,traffic_info,Civic Center Garage
+314,Civic Center Garage_distance,distance,Civic Center Garage
+339,5677 southwest 4th street_address,address,5677 southwest 4th street
+340,5677 southwest 4th street_traffic_info,traffic_info,5677 southwest 4th street
+341,5677 southwest 4th street_distance,distance,5677 southwest 4th street
+348,Valero_address,address,Valero
+349,Valero_traffic_info,traffic_info,Valero
+350,Valero_distance,distance,Valero
+360,P.F. Changs_address,address,P.F. Changs
+361,P.F. Changs_traffic_info,traffic_info,P.F. Changs
+362,P.F. Changs_distance,distance,P.F. Changs
+372,Philz_address,address,Philz
+373,Philz_traffic_info,traffic_info,Philz
+374,Philz_distance,distance,Philz
+382,corona_monday,monday,corona
+383,corona_tuesday,tuesday,corona
+384,corona_wednesday,wednesday,corona
+385,corona_thursday,thursday,corona
+386,corona_friday,friday,corona
+387,corona_saturday,saturday,corona
+388,corona_sunday,sunday,corona
+389,carson_monday,monday,carson
+390,carson_tuesday,tuesday,carson
+391,carson_wednesday,wednesday,carson
+392,carson_thursday,thursday,carson
+393,carson_friday,friday,carson
+394,carson_saturday,saturday,carson
+395,carson_sunday,sunday,carson
+410,boston_monday,monday,boston
+411,boston_tuesday,tuesday,boston
+412,boston_wednesday,wednesday,boston
+413,boston_thursday,thursday,boston
+414,boston_friday,friday,boston
+415,boston_saturday,saturday,boston
+416,boston_sunday,sunday,boston
+417,redwood city_monday,monday,redwood city
+418,redwood city_tuesday,tuesday,redwood city
+419,redwood city_wednesday,wednesday,redwood city
+420,redwood city_thursday,thursday,redwood city
+421,redwood city_friday,friday,redwood city
+422,redwood city_saturday,saturday,redwood city
+423,redwood city_sunday,sunday,redwood city
+479,Palo Alto Medical Foundation_address,address,Palo Alto Medical Foundation
+480,Palo Alto Medical Foundation_traffic_info,traffic_info,Palo Alto Medical Foundation
+481,Palo Alto Medical Foundation_distance,distance,Palo Alto Medical Foundation
+485,Starbucks_address,address,Starbucks
+486,Starbucks_traffic_info,traffic_info,Starbucks
+487,Starbucks_distance,distance,Starbucks
+512,Chef Chu's_address,address,Chef Chu's
+513,Chef Chu's_traffic_info,traffic_info,Chef Chu's
+514,Chef Chu's_distance,distance,Chef Chu's
+527,Shell_address,address,Shell
+528,Shell_traffic_info,traffic_info,Shell
+529,Shell_distance,distance,Shell
+546,downtown chicago_monday,monday,downtown chicago
+547,downtown chicago_tuesday,tuesday,downtown chicago
+548,downtown chicago_wednesday,wednesday,downtown chicago
+549,downtown chicago_thursday,thursday,downtown chicago
+550,downtown chicago_friday,friday,downtown chicago
+551,downtown chicago_saturday,saturday,downtown chicago
+552,downtown chicago_sunday,sunday,downtown chicago
+553,san jose_monday,monday,san jose
+554,san jose_tuesday,tuesday,san jose
+555,san jose_wednesday,wednesday,san jose
+556,san jose_thursday,thursday,san jose
+557,san jose_friday,friday,san jose
+558,san jose_saturday,saturday,san jose
+559,san jose_sunday,sunday,san jose
+560,oakland_monday,monday,oakland
+561,oakland_tuesday,tuesday,oakland
+562,oakland_wednesday,wednesday,oakland
+563,oakland_thursday,thursday,oakland
+564,oakland_friday,friday,oakland
+565,oakland_saturday,saturday,oakland
+566,oakland_sunday,sunday,oakland
+567,exeter_monday,monday,exeter
+568,exeter_tuesday,tuesday,exeter
+569,exeter_wednesday,wednesday,exeter
+570,exeter_thursday,thursday,exeter
+571,exeter_friday,friday,exeter
+572,exeter_saturday,saturday,exeter
+573,exeter_sunday,sunday,exeter
+574,cleveland_monday,monday,cleveland
+575,cleveland_tuesday,tuesday,cleveland
+576,cleveland_wednesday,wednesday,cleveland
+577,cleveland_thursday,thursday,cleveland
+578,cleveland_friday,friday,cleveland
+579,cleveland_saturday,saturday,cleveland
+580,cleveland_sunday,sunday,cleveland
+609,meeting_time,time,meeting
+610,meeting_room,room,meeting
+611,meeting_party,party,meeting
+612,meeting_agenda,agenda,meeting
+613,meeting_date,date,meeting
+614,dentist appointment_time,time,dentist appointment
+615,dentist appointment_room,room,dentist appointment
+616,dentist appointment_party,party,dentist appointment
+617,dentist appointment_agenda,agenda,dentist appointment
+618,dentist appointment_date,date,dentist appointment
+619,doctor appointment_time,time,doctor appointment
+620,doctor appointment_room,room,doctor appointment
+621,doctor appointment_party,party,doctor appointment
+622,doctor appointment_agenda,agenda,doctor appointment
+623,doctor appointment_date,date,doctor appointment
+634,conference_time,time,conference
+635,conference_room,room,conference
+636,conference_party,party,conference
+637,conference_agenda,agenda,conference
+638,conference_date,date,conference
+656,menlo park_monday,monday,menlo park
+657,menlo park_tuesday,tuesday,menlo park
+658,menlo park_wednesday,wednesday,menlo park
+659,menlo park_thursday,thursday,menlo park
+660,menlo park_friday,friday,menlo park
+661,menlo park_saturday,saturday,menlo park
+662,menlo park_sunday,sunday,menlo park
+710,Pizza Chicago_address,address,Pizza Chicago
+711,Pizza Chicago_traffic_info,traffic_info,Pizza Chicago
+712,Pizza Chicago_distance,distance,Pizza Chicago
+716,Pizza Hut_address,address,Pizza Hut
+717,Pizza Hut_traffic_info,traffic_info,Pizza Hut
+718,Pizza Hut_distance,distance,Pizza Hut
+719,Hacienda Market_address,address,Hacienda Market
+720,Hacienda Market_traffic_info,traffic_info,Hacienda Market
+721,Hacienda Market_distance,distance,Hacienda Market
+743,san mateo_monday,monday,san mateo
+744,san mateo_tuesday,tuesday,san mateo
+745,san mateo_wednesday,wednesday,san mateo
+746,san mateo_thursday,thursday,san mateo
+747,san mateo_friday,friday,san mateo
+748,san mateo_saturday,saturday,san mateo
+749,san mateo_sunday,sunday,san mateo
+802,optometrist appointment_time,time,optometrist appointment
+803,optometrist appointment_room,room,optometrist appointment
+804,optometrist appointment_party,party,optometrist appointment
+805,optometrist appointment_agenda,agenda,optometrist appointment
+806,optometrist appointment_date,date,optometrist appointment
+807,yoga activity_time,time,yoga activity
+808,yoga activity_room,room,yoga activity
+809,yoga activity_party,party,yoga activity
+810,yoga activity_agenda,agenda,yoga activity
+811,yoga activity_date,date,yoga activity
+981,Palo Alto Cafe_address,address,Palo Alto Cafe
+982,Palo Alto Cafe_traffic_info,traffic_info,Palo Alto Cafe
+983,Palo Alto Cafe_distance,distance,Palo Alto Cafe
+987,Four Seasons_address,address,Four Seasons
+988,Four Seasons_traffic_info,traffic_info,Four Seasons
+989,Four Seasons_distance,distance,Four Seasons
+990,Topanga Mall_address,address,Topanga Mall
+991,Topanga Mall_traffic_info,traffic_info,Topanga Mall
+992,Topanga Mall_distance,distance,Topanga Mall
+1098,new york_monday,monday,new york
+1099,new york_tuesday,tuesday,new york
+1100,new york_wednesday,wednesday,new york
+1101,new york_thursday,thursday,new york
+1102,new york_friday,friday,new york
+1103,new york_saturday,saturday,new york
+1104,new york_sunday,sunday,new york
+1204,Cafe Venetia_address,address,Cafe Venetia
+1205,Cafe Venetia_traffic_info,traffic_info,Cafe Venetia
+1206,Cafe Venetia_distance,distance,Cafe Venetia
+1479,Webster Garage_address,address,Webster Garage
+1480,Webster Garage_traffic_info,traffic_info,Webster Garage
+1481,Webster Garage_distance,distance,Webster Garage
+1509,5677 springer street_address,address,5677 springer street
+1510,5677 springer street_traffic_info,traffic_info,5677 springer street
+1511,5677 springer street_distance,distance,5677 springer street
+1620,taking medicine_time,time,taking medicine
+1621,taking medicine_room,room,taking medicine
+1622,taking medicine_party,party,taking medicine
+1623,taking medicine_agenda,agenda,taking medicine
+1624,taking medicine_date,date,taking medicine
+2068,camarillo_monday,monday,camarillo
+2069,camarillo_tuesday,tuesday,camarillo
+2070,camarillo_wednesday,wednesday,camarillo
+2071,camarillo_thursday,thursday,camarillo
+2072,camarillo_friday,friday,camarillo
+2073,camarillo_saturday,saturday,camarillo
+2074,camarillo_sunday,sunday,camarillo
+2198,Dish Parking_address,address,Dish Parking
+2199,Dish Parking_traffic_info,traffic_info,Dish Parking
+2200,Dish Parking_distance,distance,Dish Parking
+2552,medicine_time,time,medicine
+2553,medicine_room,room,medicine
+2554,medicine_party,party,medicine
+2555,medicine_agenda,agenda,medicine
+2556,medicine_date,date,medicine
+4003,Travelers Lodge_address,address,Travelers Lodge
+4004,Travelers Lodge_traffic_info,traffic_info,Travelers Lodge
+4005,Travelers Lodge_distance,distance,Travelers Lodge
+4317,Papa Johns_address,address,Papa Johns
+4318,Papa Johns_traffic_info,traffic_info,Papa Johns
+4319,Papa Johns_distance,distance,Papa Johns
