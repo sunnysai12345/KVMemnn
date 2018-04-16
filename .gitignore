@@ -98,6 +98,9 @@ ENV/
 #pycache
 *.pyc
 
+#csv files
+*.csv
+
 #Pycharm
 .idea
 
